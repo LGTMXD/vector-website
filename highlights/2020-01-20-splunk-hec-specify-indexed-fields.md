@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The `splunk_hec` sink does not index fields by default"
 description: "This gives you full control over which fields are indexed"
 author_github: "https://github.com/binarylogic"

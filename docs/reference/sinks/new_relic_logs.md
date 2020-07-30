@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "New Relic Logs"
 description: "The Vector `new_relic_logs` sink batches `log` events to New Relic's log service via their log API."
@@ -30,7 +29,7 @@ API][urls.new_relic_log_api].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/new_relic_logs.md.erb
+     docs/reference/sinks/new_relic_logs.md.erb
 -->
 
 ## Configuration

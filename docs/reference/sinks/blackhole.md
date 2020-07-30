@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Blackhole"
 description: "The Vector `blackhole` sink streams `log` and `metric` events to a blackhole that simply discards data, designed for testing and benchmarking purposes."
@@ -29,7 +28,7 @@ data, designed for testing and benchmarking purposes.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/blackhole.md.erb
+     docs/reference/sinks/blackhole.md.erb
 -->
 
 ## Configuration

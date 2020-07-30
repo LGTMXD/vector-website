@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "File"
 description: "The Vector [`file`](#file) source ingests data through one or more local files and outputs `log` events."
@@ -29,7 +28,7 @@ ingests data through one or more local files and outputs
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/file.md.erb
+     docs/reference/sources/file.md.erb
 -->
 
 ## Requirements

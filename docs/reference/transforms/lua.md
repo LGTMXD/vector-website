@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Lua"
 description: "The Vector `lua` transform accepts and outputs `log` and `metric` events, allowing you to transform events with a full embedded Lua engine."
 event_types: ["log","metric"]
@@ -28,7 +27,7 @@ with a full embedded [Lua][urls.lua] engine.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/lua.md.erb
+     docs/reference/transforms/lua.md.erb
 -->
 
 ## Configuration

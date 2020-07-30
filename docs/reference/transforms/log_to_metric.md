@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Log to Metric"
 description: "The Vector `log_to_metric` transform accepts `log` events, but outputs [`metric`](#metric) events, allowing you to convert logs into one or more metrics."
 event_types: ["log","metric"]
@@ -28,7 +27,7 @@ one or more metrics.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/log_to_metric.md.erb
+     docs/reference/transforms/log_to_metric.md.erb
 -->
 
 ## Configuration

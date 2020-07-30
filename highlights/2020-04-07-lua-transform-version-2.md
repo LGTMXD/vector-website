@@ -1,6 +1,6 @@
 ---
-last_modified_on: "2020-04-17"
-$schema: "/.meta/.schemas/highlights.json"
+last_modified_on: "2020-03-31"
+$schema: "/.schemas/highlights.json"
 title: "Lua Transform v2"
 description: "The next iteration of our Lua transform."
 author_github: "https://github.com/binarylogic"
@@ -37,7 +37,7 @@ Did you know we're also [working on a WASM integration][urls.pr_2006] 👀
 
      To make changes please edit the template located at:
 
-     website/highlights/2020-04-07-lua-transform-version-2.md.erb
+     highlights/2020-04-07-lua-transform-version-2.md.erb
 -->
 
 ## Get Started

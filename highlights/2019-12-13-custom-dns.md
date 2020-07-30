@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Use Custom DNS Servers"
 description: "Point Vector to custom DNS servers"
 author_github: "https://github.com/binarylogic"

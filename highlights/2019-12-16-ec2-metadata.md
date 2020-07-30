@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-03-31"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New AWS EC2 Medata Transform"
 description: "Enrich your events with EC2 metadata"
 author_github: "https://github.com/binarylogic"

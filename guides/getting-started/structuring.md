@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Structuring Your Log Data
 description: How to parse log data in Vector
 series_position: 2
@@ -42,7 +41,7 @@ And have them coming out the other end in a structured format like this:
 
      To make changes please edit the template located at:
 
-     website/guides/getting-started/structuring.md.erb
+     guides/getting-started/structuring.md.erb
 -->
 
 ## Tutorial

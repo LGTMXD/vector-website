@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The `datadog` sink has been renamed to `datadog_metrics`"
 description: "This ensures that naming is consistent for the upcoming `datadog_logs` sink"
 author_github: "https://github.com/binarylogic"

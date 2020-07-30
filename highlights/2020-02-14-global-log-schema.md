@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-19"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Introducing Vector's Global Log Schema"
 description: "Set defaults for Vector's common log key names"
 author_github: "https://github.com/binarylogic"

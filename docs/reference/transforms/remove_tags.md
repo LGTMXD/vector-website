@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Remove Tags"
 description: "The Vector `remove_tags` transform accepts and outputs `metric` events, allowing you to remove one or more metric tags."
 event_types: ["metric"]
@@ -27,7 +26,7 @@ remove one or more metric tags.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/remove_tags.md.erb
+     docs/reference/transforms/remove_tags.md.erb
 -->
 
 ## Configuration

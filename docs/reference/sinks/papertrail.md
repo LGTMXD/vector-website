@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Papertrail"
 description: "The Vector `papertrail` sink streams `log` events to Papertrail via Syslog."
@@ -29,7 +28,7 @@ The Vector `papertrail` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/papertrail.md.erb
+     docs/reference/sinks/papertrail.md.erb
 -->
 
 ## Configuration

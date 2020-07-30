@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "ANSI Stripper"
 description: "The Vector `ansi_stripper` transform accepts and outputs `log` events, allowing you to strips ANSI escape sequences from the specified field."
 event_types: ["log"]
@@ -27,7 +26,7 @@ ANSI escape sequences from the specified field.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/ansi_stripper.md.erb
+     docs/reference/transforms/ansi_stripper.md.erb
 -->
 
 ## Configuration

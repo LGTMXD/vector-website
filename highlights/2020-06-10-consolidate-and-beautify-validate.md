@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Beautification of the validate command"
 description: "A little polish on a useful feature."
 author_github: "https://github.com/hoverbear"

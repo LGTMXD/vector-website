@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "GCP Cloud Storage (GCS)"
 description: "The Vector `gcp_cloud_storage` sink batches `log` events to Google Cloud Platform's Cloud Storage service via the XML Interface."
@@ -30,7 +29,7 @@ the [XML Interface](https://cloud.google.com/storage/docs/xml-api/overview).
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/gcp_cloud_storage.md.erb
+     docs/reference/sinks/gcp_cloud_storage.md.erb
 -->
 
 ## Configuration

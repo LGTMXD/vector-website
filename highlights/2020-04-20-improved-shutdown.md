@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-20"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Improved Shutdown"
 description: "A faster and more reliable shutdown process"
 author_github: "https://github.com/binarylogic"

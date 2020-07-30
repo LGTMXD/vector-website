@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "Prometheus"
 description: "The Vector `prometheus` sink exposes `metric` events to Prometheus metrics service."
@@ -29,7 +28,7 @@ The Vector `prometheus` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/prometheus.md.erb
+     docs/reference/sinks/prometheus.md.erb
 -->
 
 ## Requirements

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "File"
 description: "The Vector `file` sink streams `log` events to a file."
@@ -27,7 +26,7 @@ The Vector `file` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/file.md.erb
+     docs/reference/sinks/file.md.erb
 -->
 
 ## Configuration

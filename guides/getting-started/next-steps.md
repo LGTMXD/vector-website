@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-04-01"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Next Steps
 description: Where to go after the basics
 series_position: 5

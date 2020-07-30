@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Red Hat Enterprise Linux
 sidebar_label: RHEL
 description: Install Vector on Red Hat Enterprise Linux
@@ -20,7 +19,7 @@ This document will cover installing Vector on Red Hat Enterprise Linux.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/rhel.md.erb
+     docs/setup/installation/operating-systems/rhel.md.erb
 -->
 
 ## Install

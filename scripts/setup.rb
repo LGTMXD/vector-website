@@ -75,5 +75,6 @@ RELEASES_HOST = "#{HOST}#{RELEASES_BASE_PATH}".freeze
 RELEASE_META_DIR = "#{META_ROOT}/releases".freeze
 PARTIALS_DIR = File.join(ROOT_DIR, "scripts", "generate", "templates", "_partials").freeze
 STATIC_ROOT = File.join(ROOT_DIR, "static").freeze
+VECTOR_ROOT = File.join(ROOT_DIR, "vector").freeze
 
 OPERATING_SYSTEMS = ["Linux", "MacOS", "Windows"].freeze

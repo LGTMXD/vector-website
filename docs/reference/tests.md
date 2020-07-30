@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Unit Tests
 description: Vector's unit test configuration options, allowing you to unit test your Vector configuration files.
 status: beta
@@ -26,7 +25,7 @@ vector test /etc/vector/*.toml
 
      To make changes please edit the template located at:
 
-     website/docs/reference/tests.md.erb
+     docs/reference/tests.md.erb
 -->
 
 ## Configuration

@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send logs from Syslog to a file"
 description: "A simple guide to send logs from Syslog to a file in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sources/syslog/file.md.erb
+     guides/integrate/sources/syslog/file.md.erb
 -->
 
 ## Background

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Docker
 sidebar_label: Docker
 description: Install Vector on the Docker platform
@@ -26,7 +25,7 @@ architectures.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/platforms/docker.md.erb
+     docs/setup/installation/platforms/docker.md.erb
 -->
 
 ## Install

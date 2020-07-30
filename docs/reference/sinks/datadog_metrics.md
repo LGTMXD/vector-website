@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Datadog Metrics"
 description: "The Vector `datadog_metrics` sink batches `metric` events to Datadog's metrics service using HTTP API."
@@ -29,7 +28,7 @@ API](https://docs.datadoghq.com/api/?lang=bash#metrics).
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/datadog_metrics.md.erb
+     docs/reference/sinks/datadog_metrics.md.erb
 -->
 
 ## Configuration

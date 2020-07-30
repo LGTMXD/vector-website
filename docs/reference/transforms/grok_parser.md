@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Grok Parser"
 description: "The Vector `grok_parser` transform accepts and outputs `log` events, allowing you to parse a log field value with Grok."
 event_types: ["log"]
@@ -27,7 +26,7 @@ a log field value with [Grok][urls.grok].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/grok_parser.md.erb
+     docs/reference/transforms/grok_parser.md.erb
 -->
 
 ## Configuration

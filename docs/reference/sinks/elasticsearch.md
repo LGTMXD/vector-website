@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Elasticsearch"
 description: "The Vector `elasticsearch` sink batches `log` events to Elasticsearch via the `_bulk` API endpoint."
@@ -31,7 +30,7 @@ endpoint][urls.elasticsearch_bulk].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/elasticsearch.md.erb
+     docs/reference/sinks/elasticsearch.md.erb
 -->
 
 ## Warnings

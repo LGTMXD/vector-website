@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "HTTP"
 description: "The Vector `http` source ingests data through the HTTP protocol and outputs `log` events."
@@ -29,7 +28,7 @@ ingests data through the [HTTP protocol][urls.http] and outputs
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/http.md.erb
+     docs/reference/sources/http.md.erb
 -->
 
 ## Requirements

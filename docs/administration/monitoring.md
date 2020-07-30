@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Monitoring
 description: How to monitor and observe Vector with logs, metrics, and more.
 ---
@@ -15,7 +14,7 @@ This document will cover monitoring Vector.
 
      To make changes please edit the template located at:
 
-     website/docs/administration/monitoring.md.erb
+     docs/administration/monitoring.md.erb
 -->
 
 ## Logs

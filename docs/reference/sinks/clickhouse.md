@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Clickhouse"
 description: "The Vector `clickhouse` sink batches `log` events to Clickhouse via the `HTTP` Interface."
@@ -30,7 +29,7 @@ The Vector `clickhouse` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/clickhouse.md.erb
+     docs/reference/sinks/clickhouse.md.erb
 -->
 
 ## Requirements

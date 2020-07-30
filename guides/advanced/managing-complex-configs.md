@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Building & Managing Complex Configs
 description: Strategies for building and managing complex Vector configs
 author_github: https://github.com/Jeffail
@@ -25,7 +24,7 @@ free Vector configs that are easy to maintain.
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/managing-complex-configs.md.erb
+     guides/advanced/managing-complex-configs.md.erb
 -->
 
 ## Generating Configs

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Console"
 description: "The Vector `console` sink streams `log` and `metric` events to standard output streams, such as STDOUT and STDERR."
@@ -30,7 +29,7 @@ streams][urls.standard_streams], such as [STDOUT][urls.stdout] and
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/console.md.erb
+     docs/reference/sinks/console.md.erb
 -->
 
 ## Configuration

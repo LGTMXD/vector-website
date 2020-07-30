@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector via RPM
 sidebar_label: RPM
 description: Install Vector through the RPM package manager
@@ -20,7 +19,7 @@ generally used on CentOS.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/package-managers/rpm.md.erb
+     docs/setup/installation/package-managers/rpm.md.erb
 -->
 
 ## Install

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Environment Variables
 description: "A full list of Vector's supported environment variables and how to use them."
 sidebar_label: Env Vars
@@ -23,7 +22,7 @@ options][docs.global-options] as well.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/env-vars.md.erb
+     docs/reference/env-vars.md.erb
 -->
 
 ## Special Variables

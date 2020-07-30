@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Vector gracefully exits when specific sources finish"
 description: "One step closer to Vector replacing awk and sed!"
 author_github: "https://github.com/hoverbear"
@@ -31,11 +31,9 @@ banana@tree:/$ vector generate stdin//console(encoding=json)
 
 Once this happens, it seems inevitable we'll add something like this eventually:
 
-
 ```bash
 banana@tree:/$ vector eval stdin//console(encoding=json)
 ```
-
 
 Want to contribute? [Discussion here!][urls.vector_generate_arguments_issue]
 

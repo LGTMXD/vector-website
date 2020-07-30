@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New Papertrail Sink"
 description: "Sink logs to the Papertrail logging service"
 author_github: "https://github.com/binarylogic"

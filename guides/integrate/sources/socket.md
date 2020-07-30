@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Collect logs from a TCP, UDP, or UDS socket and send them anywhere"
 description: "A simple guide to collect logs from a TCP, UDP, or UDS socket and send them anywhere in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sources/socket.md.erb
+     guides/integrate/sources/socket.md.erb
 -->
 
 ## Strategy

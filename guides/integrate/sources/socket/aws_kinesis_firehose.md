@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send logs from a TCP, UDP, or UDS socket to AWS Kinesis Firehose"
 description: "A simple guide to send logs from a TCP, UDP, or UDS socket to AWS Kinesis Firehose in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sources/socket/aws_kinesis_firehose.md.erb
+     guides/integrate/sources/socket/aws_kinesis_firehose.md.erb
 -->
 
 ## Background

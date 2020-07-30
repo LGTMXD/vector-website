@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "AWS Cloudwatch Metrics"
 description: "The Vector `aws_cloudwatch_metrics` sink streams `metric` events to Amazon Web Service's CloudWatch Metrics service via the `PutMetricData` API endpoint."
@@ -30,7 +29,7 @@ endpoint](https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_P
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/aws_cloudwatch_metrics.md.erb
+     docs/reference/sinks/aws_cloudwatch_metrics.md.erb
 -->
 
 ## Configuration

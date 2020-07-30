@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Rename Fields"
 description: "The Vector `rename_fields` transform accepts and outputs `log` events, allowing you to rename one or more log fields."
 event_types: ["log"]
@@ -28,7 +27,7 @@ one or more log fields.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/rename_fields.md.erb
+     docs/reference/transforms/rename_fields.md.erb
 -->
 
 ## Configuration

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Guarantees
 description: Vector's gaurantees. Covering delivery and reliability guarantees for each Vector component.
 ---
@@ -27,7 +26,7 @@ support specific guarantees.
 
      To make changes please edit the template located at:
 
-     website/docs/about/guarantees.md.erb
+     docs/about/guarantees.md.erb
 -->
 
 ## Delivery Guarantees

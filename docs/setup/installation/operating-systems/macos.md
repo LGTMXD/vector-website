@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On MacOS
 sidebar_label: MacOS
 description: Install Vector on MacOS
@@ -20,7 +19,7 @@ This document will cover installing Vector on MacOS.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/macos.md.erb
+     docs/setup/installation/operating-systems/macos.md.erb
 -->
 
 ## Install

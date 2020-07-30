@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New Encoding Options"
 description: "Vector now lets you whitelist, blacklist, and format fields when events are encoded"
 author_github: "https://github.com/binarylogic"

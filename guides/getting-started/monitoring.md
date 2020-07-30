@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Monitoring Vector
 description: How to monitoring and observe Vector in production
 series_position: 4
@@ -20,7 +19,7 @@ performing. This guide will cover how to monitor and observe Vector.
 
      To make changes please edit the template located at:
 
-     website/guides/getting-started/monitoring.md.erb
+     guides/getting-started/monitoring.md.erb
 -->
 
 ## Metrics

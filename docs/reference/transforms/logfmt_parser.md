@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Logfmt Parser"
 description: "The Vector `logfmt_parser` transform accepts and outputs `log` events, allowing you to parse a log field's value in the logfmt format."
 event_types: ["log"]
@@ -27,7 +26,7 @@ a log field's value in the [logfmt][urls.logfmt] format.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/logfmt_parser.md.erb
+     docs/reference/transforms/logfmt_parser.md.erb
 -->
 
 ## Configuration

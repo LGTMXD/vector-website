@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The Vector Source & Sink Support TLS"
 description: "Securely forward data between Vector instances"
 author_github: "https://github.com/binarylogic"

@@ -51,7 +51,7 @@ BLACKLISTED_SOURCES = ["vector"]
 
 def doc_valid?(url_path)
   parts = url_path.split("#", 2)
-  file_or_dir_path = WEBSITE_ROOT + parts[0][0..-1]
+  file_or_dir_path = ROOT_DIR + parts[0][0..-1]
   file_or_dir_path.delete_suffix!("/")
   anchor = parts[1]
   file_path =
@@ -66,7 +66,7 @@ end
 
 def guide_valid?(url_path)
   parts = url_path.split("#", 2)
-  file_or_dir_path = WEBSITE_ROOT + parts[0][0..-1]
+  file_or_dir_path = ROOT_DIR + parts[0][0..-1]
   file_or_dir_path.delete_suffix!("/")
 
   if File.directory?(file_or_dir_path)

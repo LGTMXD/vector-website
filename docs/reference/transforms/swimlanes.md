@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Swimlanes"
 description: "The Vector `swimlanes` transform accepts and outputs `log` events, allowing you to route events across parallel streams using logical filters."
 event_types: ["log"]
@@ -27,7 +26,7 @@ events across parallel streams using logical filters.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/swimlanes.md.erb
+     docs/reference/transforms/swimlanes.md.erb
 -->
 
 ## Configuration

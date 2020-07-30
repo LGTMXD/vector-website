@@ -26,12 +26,12 @@ require 'net/http'
 # method.
 class Links
   CATEGORIES = ["assets", "docs", "guides", "pages", "urls"].freeze
-  VECTOR_ROOT = "https://github.com/timberio/vector".freeze
-  VECTOR_COMMIT_ROOT = "#{VECTOR_ROOT}/commit".freeze
-  VECTOR_ISSUES_ROOT = "#{VECTOR_ROOT}/issues".freeze
-  VECTOR_MILESTONES_ROOT = "#{VECTOR_ROOT}/milestone".freeze
-  VECTOR_PRS_ROOT = "#{VECTOR_ROOT}/pull".freeze
-  TEST_HARNESS_ROOT = "https://github.com/timberio/vector-test-harness".freeze
+  VECTOR_REPO_URL = "https://github.com/timberio/vector".freeze
+  VECTOR_COMMIT_URL = "#{VECTOR_REPO_URL}/commit".freeze
+  VECTOR_ISSUES_URL = "#{VECTOR_REPO_URL}/issues".freeze
+  VECTOR_MILESTONES_URL = "#{VECTOR_REPO_URL}/milestone".freeze
+  VECTOR_PRS_URL = "#{VECTOR_REPO_URL}/pull".freeze
+  TEST_HARNESS_URL = "https://github.com/timberio/vector-test-harness".freeze
 
   attr_reader :values
 
@@ -221,14 +221,14 @@ class Links
         name = $1
         type = $2
         query = "is:open is:issue label:\"#{type}: #{name}\""
-        VECTOR_ISSUES_ROOT + "?" + {"q" => query}.to_query
+        VECTOR_ISSUES_URL + "?" + {"q" => query}.to_query
 
       when /^(.*)_(sink|source|transform)_(bugs|enhancements)$/
         name = $1
         type = $2
         issue_type = $3.singularize
         query = "is:open is:issue label:\"#{type}: #{name}\" label:\"Type: #{issue_type}\""
-        VECTOR_ISSUES_ROOT + "?" + {"q" => query}.to_query
+        VECTOR_ISSUES_URL + "?" + {"q" => query}.to_query
 
       when /^(.*)_(sink|source|transform)_source$/
         name = $1
@@ -247,13 +247,13 @@ class Links
 
         paths =
           variations.collect do |variation|
-            "#{VECTOR_ROOT}/tree/master/src/#{type.pluralize}/#{variation}"
+            "#{VECTOR_REPO_URL}/tree/master/src/#{type.pluralize}/#{variation}"
           end
 
         variations.each do |variation|
-          path = "#{ROOT_DIR}/src/#{type.pluralize}/#{variation}"
+          path = "#{VECTOR_ROOT}/src/#{type.pluralize}/#{variation}"
           if File.exists?(path) || File.directory?(path)
-            return "#{VECTOR_ROOT}/tree/master/src/#{type.pluralize}/#{variation}"
+            return "#{VECTOR_REPO_URL}/tree/master/src/#{type.pluralize}/#{variation}"
           end
         end
 
@@ -273,25 +273,25 @@ class Links
         )
 
       when /^(.*)_test$/
-        "#{TEST_HARNESS_ROOT}/tree/master/cases/#{$1}"
+        "#{TEST_HARNESS_URL}/tree/master/cases/#{$1}"
 
       when /^commit_([a-z0-9]+)$/
-        "#{VECTOR_COMMIT_ROOT}/#{$1}"
+        "#{VECTOR_COMMIT_URL}/#{$1}"
 
       when /^compare_([a-z0-9_\.]*)\.\.\.([a-z0-9_\.]*)$/
         "https://github.com/timberio/vector/compare/#{$1}...#{$2}"
 
       when /^issue_([0-9]+)$/
-        "#{VECTOR_ISSUES_ROOT}/#{$1}"
+        "#{VECTOR_ISSUES_URL}/#{$1}"
 
       when /^milestone_([0-9]+)$/
-        "#{VECTOR_MILESTONES_ROOT}/#{$1}"
+        "#{VECTOR_MILESTONES_URL}/#{$1}"
 
       when /^new_(.*)_(sink|source|transform)_issue$/
         name = $1
         type = $2
         label = "#{type}: #{name}"
-        VECTOR_ISSUES_ROOT + "/new?" + {"labels" => [label]}.to_query
+        VECTOR_ISSUES_URL + "/new?" + {"labels" => [label]}.to_query
 
       when /^new_(.*)_(sink|source|transform)_(bug|enhancement)$/
         name = $1
@@ -299,10 +299,10 @@ class Links
         issue_type = $3.singularize
         component_label = "#{type}: #{name}"
         type_label = "Type: #{issue_type}"
-        VECTOR_ISSUES_ROOT + "/new?" + {"labels" => [component_label, type_label]}.to_query
+        VECTOR_ISSUES_URL + "/new?" + {"labels" => [component_label, type_label]}.to_query
 
       when /^pr_([0-9]+)$/
-        "#{VECTOR_PRS_ROOT}/#{$1}"
+        "#{VECTOR_PRS_URL}/#{$1}"
 
       when /^release_notes_([a-z0-9_\.]*)$/
         "#{HOST}/releases/#{$1}"
@@ -311,7 +311,7 @@ class Links
         "#{HOST}/releases/#{$1}/download"
 
       when /^v([a-z0-9\-\.]+)_branch$/
-        "#{VECTOR_ROOT}/tree/v#{$1}"
+        "#{VECTOR_REPO_URL}/tree/v#{$1}"
 
       when /^vector_downloads\.?(.*)$/
         path = $1 == "" ? nil : $1

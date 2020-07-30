@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "Statsd"
 description: "The Vector `statsd` sink streams `metric` events to StatsD metrics service."
@@ -28,7 +27,7 @@ The Vector `statsd` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/statsd.md.erb
+     docs/reference/sinks/statsd.md.erb
 -->
 
 ## Configuration

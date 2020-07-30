@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "AWS S3"
 description: "The Vector `aws_s3` sink batches `log` events to Amazon Web Service's S3 service via the `PutObject` API endpoint."
@@ -30,7 +29,7 @@ endpoint](https://docs.aws.amazon.com/AmazonS3/latest/API/RESTObjectPUT.html).
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/aws_s3.md.erb
+     docs/reference/sinks/aws_s3.md.erb
 -->
 
 ## Configuration

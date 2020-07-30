@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Compression Now Available In The Kafka Sink"
 description: "Improve throughput by compressing data before writing it to Kafka"
 author_github: "https://github.com/binarylogic"

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "InfluxDB Logs"
 description: "The Vector `influxdb_logs` sink batches `log` events to InfluxDB using v1 or v2 HTTP API."
@@ -30,7 +29,7 @@ The Vector `influxdb_logs` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/influxdb_logs.md.erb
+     docs/reference/sinks/influxdb_logs.md.erb
 -->
 
 ## Configuration

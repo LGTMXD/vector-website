@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Splunk HEC"
 description: "The Vector `splunk_hec` source ingests data through the Splunk HTTP Event Collector protocol and outputs `log` events."
@@ -30,7 +29,7 @@ events.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/splunk_hec.md.erb
+     docs/reference/sources/splunk_hec.md.erb
 -->
 
 ## Requirements

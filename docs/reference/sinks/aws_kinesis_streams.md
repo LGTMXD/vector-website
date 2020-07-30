@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-22"
 delivery_guarantee: "at_least_once"
 component_title: "AWS Kinesis Data Streams"
 description: "The Vector `aws_kinesis_streams` sink batches `log` events to Amazon Web Service's Kinesis Data Stream service via the `PutRecords` API endpoint."
@@ -31,7 +30,7 @@ endpoint](https://docs.aws.amazon.com/kinesis/latest/APIReference/API_PutRecords
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/aws_kinesis_streams.md.erb
+     docs/reference/sinks/aws_kinesis_streams.md.erb
 -->
 
 ## Configuration

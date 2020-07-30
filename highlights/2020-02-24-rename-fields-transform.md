@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New Rename Fields Transform"
 description: "An easier way to rename fields"
 author_github: "https://github.com/binarylogic"

@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send logs from Kafka to AWS Kinesis Data Streams"
 description: "A simple guide to send logs from Kafka to AWS Kinesis Data Streams in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sources/kafka/aws_kinesis_streams.md.erb
+     guides/integrate/sources/kafka/aws_kinesis_streams.md.erb
 -->
 
 ## Background

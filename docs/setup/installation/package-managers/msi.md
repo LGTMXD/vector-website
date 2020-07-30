@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector via Window Installer
 sidebar_label: MSI
 description: Install Vector through the Windows Installer
@@ -19,7 +18,7 @@ Vector can be installed from an MSI package through the Windows Installer.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/package-managers/msi.md.erb
+     docs/setup/installation/package-managers/msi.md.erb
 -->
 
 ## Install

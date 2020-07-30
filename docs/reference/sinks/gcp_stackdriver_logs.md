@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "GCP Stackdriver Logs"
 description: "The Vector `gcp_stackdriver_logs` sink batches [`log`](#log) events to Google Cloud Platform's Stackdriver Logging service via the REST Interface."
@@ -30,7 +29,7 @@ the [REST Interface][urls.gcp_stackdriver_logging_rest].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/gcp_stackdriver_logs.md.erb
+     docs/reference/sinks/gcp_stackdriver_logs.md.erb
 -->
 
 ## Configuration

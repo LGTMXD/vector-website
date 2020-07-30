@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Tokenizer"
 description: "The Vector `tokenizer` transform accepts and outputs `log` events, allowing you to tokenize a field's value by splitting on white space, ignoring special wrapping characters, and zip the tokens into ordered field names."
 event_types: ["log"]
@@ -28,7 +27,7 @@ characters, and zip the tokens into ordered field names.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/tokenizer.md.erb
+     docs/reference/transforms/tokenizer.md.erb
 -->
 
 ## Configuration

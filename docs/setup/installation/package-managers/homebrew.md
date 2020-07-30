@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector via Homebrew
 sidebar_label: Homebrew
 description: Install Vector through the Homebrew package manager
@@ -20,7 +19,7 @@ used on MacOS systems.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/package-managers/homebrew.md.erb
+     docs/setup/installation/package-managers/homebrew.md.erb
 -->
 
 ## Install

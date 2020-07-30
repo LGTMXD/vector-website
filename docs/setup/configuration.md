@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Configuration
 description: Configuring Vector
 ---
@@ -22,7 +21,7 @@ vector --config /etc/vector/vector.toml
 
      To make changes please edit the template located at:
 
-     website/docs/setup/configuration.md.erb
+     docs/setup/configuration.md.erb
 -->
 
 ## Example

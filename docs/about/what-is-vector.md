@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: "What is Vector?"
 description: "High-level description of the Vector observability data collector and router."
 ---

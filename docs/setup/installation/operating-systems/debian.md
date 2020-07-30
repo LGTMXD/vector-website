@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Debian
 sidebar_label: Debian
 description: Install Vector on the Debian operating system
@@ -20,7 +19,7 @@ This document will cover installing Vector on Debian.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/debian.md.erb
+     docs/setup/installation/operating-systems/debian.md.erb
 -->
 
 ## Install

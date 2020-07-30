@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "Statsd"
 description: "The Vector `statsd` source ingests data through the StatsD UDP protocol and outputs `metric` events."
@@ -29,7 +28,7 @@ outputs [`metric`][docs.data-model.metric] events.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/statsd.md.erb
+     docs/reference/sources/statsd.md.erb
 -->
 
 ## Requirements

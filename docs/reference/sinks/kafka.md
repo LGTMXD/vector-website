@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-16"
 delivery_guarantee: "at_least_once"
 component_title: "Kafka"
 description: "The Vector `kafka` sink streams `log` events to Apache Kafka via the Kafka protocol."
@@ -30,7 +29,7 @@ Kafka][urls.kafka] via the [Kafka protocol][urls.kafka_protocol].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/kafka.md.erb
+     docs/reference/sinks/kafka.md.erb
 -->
 
 ## Requirements

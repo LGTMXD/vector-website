@@ -1,13 +1,13 @@
 ---
 last_modified_on: "2020-07-15"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Kafka components support SASL"
 description: "Vector has a new way to authenticate with Kafka!"
 author_github: "https://github.com/hoverbear"
 hide_on_release_notes: false
 pr_numbers: [2897]
 release: "0.10.0"
-tags: ["type: new feature","domain: sinks","sink: kafka"]
+tags: ["type: new feature", "domain: sinks", "sink: kafka"]
 ---
 
 import Alert from '@site/src/components/Alert';

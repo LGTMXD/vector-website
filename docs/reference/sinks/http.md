@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "HTTP"
 description: "The Vector `http` sink batches `log` events to a generic HTTP endpoint."
@@ -29,7 +28,7 @@ The Vector `http` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/http.md.erb
+     docs/reference/sinks/http.md.erb
 -->
 
 ## Configuration

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On NixOS
 sidebar_label: NixOS
 description: Install Vector on NixOS
@@ -20,7 +19,7 @@ This document will cover installing Vector on NixOS.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/nixos.md.erb
+     docs/setup/installation/operating-systems/nixos.md.erb
 -->
 
 ## Install

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "Socket"
 description: "The Vector `socket` sink streams `log` events to a socket, such as a TCP, UDP, or UDS socket."
@@ -30,7 +29,7 @@ The Vector `socket` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/socket.md.erb
+     docs/reference/sinks/socket.md.erb
 -->
 
 ## Configuration

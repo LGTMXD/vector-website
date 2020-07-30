@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Templating
 description: Learn Vector's templating syntax used to creat dynamic values in Vector's configuration.
 status: beta
@@ -17,7 +16,7 @@ field = "application_id={{ application_id }}/date=%F/"
 
      To make changes please edit the template located at:
 
-     website/docs/reference/templating.md.erb
+     docs/reference/templating.md.erb
 -->
 
 ## Example

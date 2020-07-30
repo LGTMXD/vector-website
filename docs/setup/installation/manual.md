@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-17"
 title: Install Vector Manually
 sidebar_label: hidden
 hide_pagination: true

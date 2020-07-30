@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Data Model
 sidebar_label: hidden
 description: Vector's internal data model -- event and it's subtypes.
@@ -20,7 +19,7 @@ to derive any type of monitoring data from it.
 
      To make changes please edit the template located at:
 
-     website/docs/about/data-model.md.erb
+     docs/about/data-model.md.erb
 -->
 
 ## Event Types

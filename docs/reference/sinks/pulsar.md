@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Apache Pulsar"
 description: "The Vector `pulsar` sink streams `log` events to Apache Pulsar via the Pulsar protocol."
@@ -28,7 +27,7 @@ Pulsar][urls.pulsar] via the [Pulsar protocol][urls.pulsar_protocol].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/pulsar.md.erb
+     docs/reference/sinks/pulsar.md.erb
 -->
 
 ## Configuration
