@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "LogDNA"
 description: "The Vector `logdna` sink batches `log` events to LogDna's HTTP Ingestion API."
@@ -29,7 +28,7 @@ The Vector `logdna` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/logdna.md.erb
+     docs/reference/sinks/logdna.md.erb
 -->
 
 ## Configuration

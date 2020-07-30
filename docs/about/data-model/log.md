@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Log Event
 description: A detailed guide on Vector's internal log data model.
 ---
@@ -17,7 +16,7 @@ import SVG from 'react-inlinesvg';
 
      To make changes please edit the template located at:
 
-     website/docs/about/data-model/log.md.erb
+     docs/about/data-model/log.md.erb
 -->
 
 ## Description

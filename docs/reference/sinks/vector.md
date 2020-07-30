@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "best_effort"
 component_title: "Vector"
 description: "The Vector `vector` sink streams `log` and `metric` events to another downstream `vector` source."
@@ -30,7 +29,7 @@ source][docs.sources.vector].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/vector.md.erb
+     docs/reference/sinks/vector.md.erb
 -->
 
 ## Configuration

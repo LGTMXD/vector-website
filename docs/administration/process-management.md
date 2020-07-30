@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Process Management
 description: "How to manage the Vector process, such as starting, stopping, and reloading."
 ---
@@ -17,7 +16,7 @@ Vector.
 
      To make changes please edit the template located at:
 
-     website/docs/administration/process-management.md.erb
+     docs/administration/process-management.md.erb
 -->
 
 ## Starting

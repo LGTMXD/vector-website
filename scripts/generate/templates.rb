@@ -628,7 +628,7 @@ class Templates
     dir =
       if link_name
         docs_dir = metadata.links.fetch(link_name).gsub(/\/$/, "")
-        "#{WEBSITE_ROOT}#{docs_dir}"
+        "#{ROOT_DIR}#{docs_dir}"
       else
         dirname = File.basename(@_template_path).split(".").first
         @_template_path.split("/")[0..-2].join("/") + "/#{dirname}"

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Concepts
 description: The fundamental Vector concepts. A great place to start learning about Vector.
 ---
@@ -18,7 +17,7 @@ proceed and is also cool to brag about amongst friends.
 
      To make changes please edit the template located at:
 
-     website/docs/about/concepts.md.erb
+     docs/about/concepts.md.erb
 -->
 
 ## Components

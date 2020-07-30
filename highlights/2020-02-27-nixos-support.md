@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "NixOS Support"
 description: "Bringing Vector to NixOS"
 author_github: "https://github.com/binarylogic"

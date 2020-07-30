@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: About
 description: "About Vector, the monitoring and observability data router"
 sidebar_label: hidden

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Concat"
 description: "The Vector `concat` transform accepts and outputs `log` events, allowing you to concat (substrings) of other fields to a new one."
 event_types: ["log"]
@@ -27,7 +26,7 @@ accepts and outputs [`log`][docs.data-model.log] events, allowing you to concat
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/concat.md.erb
+     docs/reference/transforms/concat.md.erb
 -->
 
 ## Configuration

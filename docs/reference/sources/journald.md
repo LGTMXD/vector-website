@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Journald"
 description: "The Vector `journald` source ingests data through Systemd's Journald utility and outputs `log` events."
@@ -29,7 +28,7 @@ utility and outputs [`log`][docs.data-model.log] events.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/journald.md.erb
+     docs/reference/sources/journald.md.erb
 -->
 
 ## Requirements

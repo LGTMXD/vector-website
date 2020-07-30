@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector From Source
 sidebar_label: From Source
 description: Install Vector from the Vector source code
@@ -33,7 +32,7 @@ section.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/manual/from-source.md.erb
+     docs/setup/installation/manual/from-source.md.erb
 -->
 
 ## Installation

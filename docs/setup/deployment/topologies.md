@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Deployment Topologies
 description: The various topologies that Vector can accomplish and when to use each.
 sidebar_label: Topologies
@@ -17,7 +16,7 @@ pros and cons of each. Use these as _guidelines_ to build your own.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/deployment/topologies.md.erb
+     docs/setup/deployment/topologies.md.erb
 -->
 
 ## Distributed

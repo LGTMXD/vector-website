@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-29"
 title: Field Path Notation
 description: "Vector's field path notation allows you to reference field values with a simple string syntax."
 ---
@@ -16,7 +15,7 @@ access nested and array values, respectively.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/field-path-notation.md.erb
+     docs/reference/field-path-notation.md.erb
 -->
 
 ## Example

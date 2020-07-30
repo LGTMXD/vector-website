@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Global Options
 description: "Vector's global options, allowing you configure global Vector-wide behavior."
 ---
@@ -16,7 +15,7 @@ Vector as a whole and set defaults for component options.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/global-options.md.erb
+     docs/reference/global-options.md.erb
 -->
 
 ## Configuration

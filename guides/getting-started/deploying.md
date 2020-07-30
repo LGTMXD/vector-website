@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Deploying Vector
 description: How to deploy Vector to your target environment
 series_position: 3
@@ -31,7 +30,7 @@ where the magic lies and this is precisely what this guide will touch on.
 
      To make changes please edit the template located at:
 
-     website/guides/getting-started/deploying.md.erb
+     guides/getting-started/deploying.md.erb
 -->
 
 ## Basic Concepts

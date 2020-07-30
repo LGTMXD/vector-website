@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Split"
 description: "The Vector `split` transform accepts and outputs `log` events, allowing you to split a field's value on a _literal_ separator and zip the tokens into ordered field names."
 event_types: ["log"]
@@ -28,7 +27,7 @@ names.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/split.md.erb
+     docs/reference/transforms/split.md.erb
 -->
 
 ## Configuration

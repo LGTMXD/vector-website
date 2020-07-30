@@ -1,13 +1,13 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "RegexSet support to `regex` transform"
 description: "Efficiently run multiple regexes in the same transform!"
 author_github: "https://github.com/hoverbear"
 hide_on_release_notes: false
 pr_numbers: [2493]
 release: "0.10.0"
-tags: ["type: enhancement", "domain: transforms","transform: regex_parser"]
+tags: ["type: enhancement", "domain: transforms", "transform: regex_parser"]
 ---
 
 Contributor [Mattias Endler (@mre)][urls.endler_dev] taught the [`regex_parser` transform][urls.vector_regex_parser] how to handle multiple regexes at a time efficiently!

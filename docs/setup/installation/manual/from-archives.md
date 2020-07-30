@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector From Archives
 sidebar_label: From Archives
 description: Install Vector from pre-compiled archives
@@ -25,7 +24,7 @@ permissions, directory creation, and other intricacies covered in the
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/manual/from-archives.md.erb
+     docs/setup/installation/manual/from-archives.md.erb
 -->
 
 ## Installation

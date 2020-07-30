@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Add Fields"
 description: "The Vector `add_fields` transform accepts and outputs `log` events, allowing you to add one or more log fields."
 event_types: ["log"]
@@ -27,7 +26,7 @@ one or more log fields.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/add_fields.md.erb
+     docs/reference/transforms/add_fields.md.erb
 -->
 
 ## Configuration

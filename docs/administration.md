@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Administration
 description: "How to administer and operate Vector."
 sidebar_label: hidden

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Raspbian
 sidebar_label: Raspbian
 description: Install Vector On Raspbian
@@ -20,7 +19,7 @@ This document will cover installing Vector on Raspbian.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/raspbian.md.erb
+     docs/setup/installation/operating-systems/raspbian.md.erb
 -->
 
 ## Install

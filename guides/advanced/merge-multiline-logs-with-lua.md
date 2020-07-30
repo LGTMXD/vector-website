@@ -1,9 +1,8 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Merge multi-line logs with Lua
 description: Combine multi-line CSV rows into single events using Lua transform
-author_github: https://github.com/a-rodin
+author_github: https://github.com/binarylogic
 tags: ["type: guide", "domain: transforms", "transform: lua"]
 ---
 
@@ -33,7 +32,7 @@ for delimiting lines, and for the given use case a full-fledged CSV parser is ne
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/merge-multiline-logs-with-lua.md.erb
+     guides/advanced/merge-multiline-logs-with-lua.md.erb
 -->
 
 ## A Minimal Example

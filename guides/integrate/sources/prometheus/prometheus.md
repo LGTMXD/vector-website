@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send metrics from Prometheus to Prometheus"
 description: "A simple guide to send metrics from Prometheus to Prometheus in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sources/prometheus/prometheus.md.erb
+     guides/integrate/sources/prometheus/prometheus.md.erb
 -->
 
 ## Background

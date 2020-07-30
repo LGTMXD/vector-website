@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Sematext Logs"
 description: "The Vector `sematext_logs` sink batches `log` events to Sematext via the Elasticsearch API."
@@ -29,7 +28,7 @@ The Vector `sematext_logs` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/sematext_logs.md.erb
+     docs/reference/sinks/sematext_logs.md.erb
 -->
 
 ## Configuration

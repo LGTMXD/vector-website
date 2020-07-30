@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-03-31"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Windows Support Is Here!"
 description: "Bringing the performance and reliability of Vector to Windows"
 author_github: "https://github.com/binarylogic"

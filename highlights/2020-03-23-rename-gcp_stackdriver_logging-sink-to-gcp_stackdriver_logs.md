@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The `gcp_stackdriver_logging` sink has been renamed to `gcp_stackdriver_logs`"
 description: "This brings the sink naming inline with consistent naming pattern"
 author_github: "https://github.com/binarylogic"

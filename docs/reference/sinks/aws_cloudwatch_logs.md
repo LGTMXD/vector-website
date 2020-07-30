@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "AWS Cloudwatch Logs"
 description: "The Vector `aws_cloudwatch_logs` sink batches `log` events to Amazon Web Service's CloudWatch Logs service via the `PutLogEvents` API endpoint."
@@ -31,7 +30,7 @@ endpoint](https://docs.aws.amazon.com/AmazonCloudWatchLogs/latest/APIReference/A
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/aws_cloudwatch_logs.md.erb
+     docs/reference/sinks/aws_cloudwatch_logs.md.erb
 -->
 
 ## Configuration

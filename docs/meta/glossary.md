@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Glossary
 description: "Vector documentation glossary of terms"
 ---
@@ -11,7 +10,7 @@ The gloassary contains common terms and their definitions.
 
      To make changes please edit the template located at:
 
-     website/docs/meta/glossary.md.erb
+     docs/meta/glossary.md.erb
 -->
 
 ## Batch

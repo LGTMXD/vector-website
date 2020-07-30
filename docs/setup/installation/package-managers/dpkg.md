@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector via DPKG
 sidebar_label: DPKG
 description: Install Vector through the DKG package manager
@@ -20,7 +19,7 @@ generally used on Debian and Ubuntu systems.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/package-managers/dpkg.md.erb
+     docs/setup/installation/package-managers/dpkg.md.erb
 -->
 
 ## Install

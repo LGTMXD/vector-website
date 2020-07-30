@@ -16,7 +16,7 @@ vector --config /etc/vector/vector.toml
 ## Example
 
 ```toml title="vector.toml"
-<%= File.read("#{Dir.pwd}/../config/examples/docs_example.toml") %>
+<%= File.read("#{VECTOR_ROOT}/config/examples/docs_example.toml") %>
 ```
 
 The key thing to notice above is the use of the `inputs` option. This connects

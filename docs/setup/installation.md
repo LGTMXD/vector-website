@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector
 sidebar_label: hidden
 description: Install Vector on your platform
@@ -17,7 +16,7 @@ simple to install.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation.md.erb
+     docs/setup/installation.md.erb
 -->
 
 ## Install script

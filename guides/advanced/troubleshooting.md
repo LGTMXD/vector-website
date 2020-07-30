@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Troubleshooting
 description: A guide on debugging and troubleshooting Vector
 author_github: https://github.com/binarylogic
@@ -24,7 +23,7 @@ us improve Vector.
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/troubleshooting.md.erb
+     guides/advanced/troubleshooting.md.erb
 -->
 
 ## 1. Check for any known issues

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Updating
 description: How to update Vector to a newer version.
 ---
@@ -14,7 +13,7 @@ method. Each installation guide provides it's own "Updating" section:
 
      To make changes please edit the template located at:
 
-     website/docs/administration/updating.md.erb
+     docs/administration/updating.md.erb
 -->
 
 ## Installation Method

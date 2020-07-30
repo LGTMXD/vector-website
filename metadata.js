@@ -14,16 +14,16 @@ module.exports = {
           "description": null,
           "id": "/advanced/managing-complex-configs",
           "last_modified_on": null,
-          "path": "website/guides/advanced/managing-complex-configs.md",
+          "path": "guides/advanced/managing-complex-configs.md",
           "series_position": null,
           "title": "Building & Managing Complex Configs"
         },
         {
-          "author_github": "https://github.com/a-rodin",
+          "author_github": "https://github.com/binarylogic",
           "description": null,
           "id": "/advanced/custom-aggregations-with-lua",
           "last_modified_on": null,
-          "path": "website/guides/advanced/custom-aggregations-with-lua.md",
+          "path": "guides/advanced/custom-aggregations-with-lua.md",
           "series_position": null,
           "title": "Custom Aggregations with Lua"
         },
@@ -32,25 +32,25 @@ module.exports = {
           "description": null,
           "id": "/advanced/schemas",
           "last_modified_on": null,
-          "path": "website/guides/advanced/schemas.md",
+          "path": "guides/advanced/schemas.md",
           "series_position": null,
           "title": "Managing Schemas in Vector"
         },
         {
-          "author_github": "https://github.com/a-rodin",
+          "author_github": "https://github.com/binarylogic",
           "description": null,
           "id": "/advanced/merge-multiline-logs-with-lua",
           "last_modified_on": null,
-          "path": "website/guides/advanced/merge-multiline-logs-with-lua.md",
+          "path": "guides/advanced/merge-multiline-logs-with-lua.md",
           "series_position": null,
           "title": "Merge multi-line logs with Lua"
         },
         {
-          "author_github": "https://github.com/a-rodin",
+          "author_github": "https://github.com/binarylogic",
           "description": null,
           "id": "/advanced/parsing-csv-logs-with-lua",
           "last_modified_on": null,
-          "path": "website/guides/advanced/parsing-csv-logs-with-lua.md",
+          "path": "guides/advanced/parsing-csv-logs-with-lua.md",
           "series_position": null,
           "title": "Parsing CSV logs with Lua"
         },
@@ -59,7 +59,7 @@ module.exports = {
           "description": null,
           "id": "/advanced/troubleshooting",
           "last_modified_on": null,
-          "path": "website/guides/advanced/troubleshooting.md",
+          "path": "guides/advanced/troubleshooting.md",
           "series_position": null,
           "title": "Troubleshooting"
         },
@@ -68,7 +68,7 @@ module.exports = {
           "description": null,
           "id": "/advanced/unit-testing",
           "last_modified_on": null,
-          "path": "website/guides/advanced/unit-testing.md",
+          "path": "guides/advanced/unit-testing.md",
           "series_position": null,
           "title": "Unit Testing Your Configs"
         }
@@ -87,7 +87,7 @@ module.exports = {
           "description": null,
           "id": "/getting-started/deploying",
           "last_modified_on": null,
-          "path": "website/guides/getting-started/deploying.md",
+          "path": "guides/getting-started/deploying.md",
           "series_position": null,
           "title": "Deploying Vector"
         },
@@ -96,7 +96,7 @@ module.exports = {
           "description": null,
           "id": "/getting-started/your-first-pipeline",
           "last_modified_on": null,
-          "path": "website/guides/getting-started/your-first-pipeline.md",
+          "path": "guides/getting-started/your-first-pipeline.md",
           "series_position": null,
           "title": "Hello World. Your First Vector Pipeline."
         },
@@ -105,7 +105,7 @@ module.exports = {
           "description": null,
           "id": "/getting-started/monitoring",
           "last_modified_on": null,
-          "path": "website/guides/getting-started/monitoring.md",
+          "path": "guides/getting-started/monitoring.md",
           "series_position": null,
           "title": "Monitoring Vector"
         },
@@ -114,7 +114,7 @@ module.exports = {
           "description": null,
           "id": "/getting-started/next-steps",
           "last_modified_on": null,
-          "path": "website/guides/getting-started/next-steps.md",
+          "path": "guides/getting-started/next-steps.md",
           "series_position": null,
           "title": "Next Steps"
         },
@@ -123,7 +123,7 @@ module.exports = {
           "description": null,
           "id": "/getting-started/structuring",
           "last_modified_on": null,
-          "path": "website/guides/getting-started/structuring.md",
+          "path": "guides/getting-started/structuring.md",
           "series_position": null,
           "title": "Structuring Your Log Data"
         }
@@ -142,7 +142,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker.md",
+          "path": "guides/integrate/platforms/docker.md",
           "series_position": null,
           "title": "Collect logs from Docker and send them anywhere"
         },
@@ -151,7 +151,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http.md",
+          "path": "guides/integrate/sources/http.md",
           "series_position": null,
           "title": "Collect logs from HTTP and send them anywhere"
         },
@@ -160,7 +160,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald.md",
+          "path": "guides/integrate/sources/journald.md",
           "series_position": null,
           "title": "Collect logs from Journald and send them anywhere"
         },
@@ -169,7 +169,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka.md",
+          "path": "guides/integrate/sources/kafka.md",
           "series_position": null,
           "title": "Collect logs from Kafka and send them anywhere"
         },
@@ -178,7 +178,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin.md",
+          "path": "guides/integrate/sources/stdin.md",
           "series_position": null,
           "title": "Collect logs from STDIN and send them anywhere"
         },
@@ -187,7 +187,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec.md",
+          "path": "guides/integrate/sources/splunk_hec.md",
           "series_position": null,
           "title": "Collect logs from Splunk HEC and send them anywhere"
         },
@@ -196,7 +196,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog.md",
+          "path": "guides/integrate/sources/syslog.md",
           "series_position": null,
           "title": "Collect logs from Syslog and send them anywhere"
         },
@@ -205,7 +205,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket.md",
+          "path": "guides/integrate/sources/socket.md",
           "series_position": null,
           "title": "Collect logs from a TCP, UDP, or UDS socket and send them anywhere"
         },
@@ -214,7 +214,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file.md",
+          "path": "guides/integrate/sources/file.md",
           "series_position": null,
           "title": "Collect logs from a file and send them anywhere"
         },
@@ -223,7 +223,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus.md",
+          "path": "guides/integrate/sources/prometheus.md",
           "series_position": null,
           "title": "Collect metrics from Prometheus and send them anywhere"
         },
@@ -232,7 +232,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd.md",
+          "path": "guides/integrate/sources/statsd.md",
           "series_position": null,
           "title": "Collect metrics from Statsd and send them anywhere"
         },
@@ -241,7 +241,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/platforms/docker/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to AWS Cloudwatch"
         },
@@ -250,7 +250,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/aws_kinesis_streams.md",
+          "path": "guides/integrate/platforms/docker/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from Docker to AWS Kinesis Data Streams"
         },
@@ -259,7 +259,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/aws_kinesis_firehose.md",
+          "path": "guides/integrate/platforms/docker/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from Docker to AWS Kinesis Firehose"
         },
@@ -268,7 +268,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/aws_s3.md",
+          "path": "guides/integrate/platforms/docker/aws_s3.md",
           "series_position": null,
           "title": "Send logs from Docker to AWS S3"
         },
@@ -277,7 +277,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/pulsar.md",
+          "path": "guides/integrate/platforms/docker/pulsar.md",
           "series_position": null,
           "title": "Send logs from Docker to Apache Pulsar"
         },
@@ -286,7 +286,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/clickhouse.md",
+          "path": "guides/integrate/platforms/docker/clickhouse.md",
           "series_position": null,
           "title": "Send logs from Docker to Clickhouse"
         },
@@ -295,7 +295,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/datadog_logs.md",
+          "path": "guides/integrate/platforms/docker/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to Datadog"
         },
@@ -304,7 +304,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/elasticsearch.md",
+          "path": "guides/integrate/platforms/docker/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from Docker to Elasticsearch"
         },
@@ -313,7 +313,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/gcp_cloud_storage.md",
+          "path": "guides/integrate/platforms/docker/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from Docker to GCP Cloud Storage (GCS)"
         },
@@ -322,7 +322,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/gcp_pubsub.md",
+          "path": "guides/integrate/platforms/docker/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from Docker to GCP PubSub"
         },
@@ -331,7 +331,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/platforms/docker/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to GCP Stackdriver"
         },
@@ -340,7 +340,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/honeycomb.md",
+          "path": "guides/integrate/platforms/docker/honeycomb.md",
           "series_position": null,
           "title": "Send logs from Docker to Honeycomb"
         },
@@ -349,7 +349,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/humio_logs.md",
+          "path": "guides/integrate/platforms/docker/humio_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to Humio"
         },
@@ -358,7 +358,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/influxdb_logs.md",
+          "path": "guides/integrate/platforms/docker/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to InfluxDB"
         },
@@ -367,7 +367,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/kafka.md",
+          "path": "guides/integrate/platforms/docker/kafka.md",
           "series_position": null,
           "title": "Send logs from Docker to Kafka"
         },
@@ -376,7 +376,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/logdna.md",
+          "path": "guides/integrate/platforms/docker/logdna.md",
           "series_position": null,
           "title": "Send logs from Docker to LogDNA"
         },
@@ -385,7 +385,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/loki.md",
+          "path": "guides/integrate/platforms/docker/loki.md",
           "series_position": null,
           "title": "Send logs from Docker to Loki"
         },
@@ -394,7 +394,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/new_relic_logs.md",
+          "path": "guides/integrate/platforms/docker/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to New Relic"
         },
@@ -403,7 +403,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/papertrail.md",
+          "path": "guides/integrate/platforms/docker/papertrail.md",
           "series_position": null,
           "title": "Send logs from Docker to Papertrail"
         },
@@ -412,7 +412,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/sematext_logs.md",
+          "path": "guides/integrate/platforms/docker/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from Docker to Sematext"
         },
@@ -421,7 +421,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/splunk_hec.md",
+          "path": "guides/integrate/platforms/docker/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from Docker to a Splunk HEC"
         },
@@ -430,7 +430,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/socket.md",
+          "path": "guides/integrate/platforms/docker/socket.md",
           "series_position": null,
           "title": "Send logs from Docker to a TCP, UDP, or UDS socket"
         },
@@ -439,7 +439,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/file.md",
+          "path": "guides/integrate/platforms/docker/file.md",
           "series_position": null,
           "title": "Send logs from Docker to a file"
         },
@@ -448,7 +448,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/platforms/docker/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/platforms/docker/http.md",
+          "path": "guides/integrate/platforms/docker/http.md",
           "series_position": null,
           "title": "Send logs from Docker to an HTTP endpoint"
         },
@@ -457,7 +457,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/http/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to AWS Cloudwatch"
         },
@@ -466,7 +466,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/http/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from HTTP to AWS Kinesis Data Streams"
         },
@@ -475,7 +475,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/http/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from HTTP to AWS Kinesis Firehose"
         },
@@ -484,7 +484,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/aws_s3.md",
+          "path": "guides/integrate/sources/http/aws_s3.md",
           "series_position": null,
           "title": "Send logs from HTTP to AWS S3"
         },
@@ -493,7 +493,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/pulsar.md",
+          "path": "guides/integrate/sources/http/pulsar.md",
           "series_position": null,
           "title": "Send logs from HTTP to Apache Pulsar"
         },
@@ -502,7 +502,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/clickhouse.md",
+          "path": "guides/integrate/sources/http/clickhouse.md",
           "series_position": null,
           "title": "Send logs from HTTP to Clickhouse"
         },
@@ -511,7 +511,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/datadog_logs.md",
+          "path": "guides/integrate/sources/http/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to Datadog"
         },
@@ -520,7 +520,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/elasticsearch.md",
+          "path": "guides/integrate/sources/http/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from HTTP to Elasticsearch"
         },
@@ -529,7 +529,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/http/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from HTTP to GCP Cloud Storage (GCS)"
         },
@@ -538,7 +538,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/gcp_pubsub.md",
+          "path": "guides/integrate/sources/http/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from HTTP to GCP PubSub"
         },
@@ -547,7 +547,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/http/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to GCP Stackdriver"
         },
@@ -556,7 +556,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/honeycomb.md",
+          "path": "guides/integrate/sources/http/honeycomb.md",
           "series_position": null,
           "title": "Send logs from HTTP to Honeycomb"
         },
@@ -565,7 +565,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/humio_logs.md",
+          "path": "guides/integrate/sources/http/humio_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to Humio"
         },
@@ -574,7 +574,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/influxdb_logs.md",
+          "path": "guides/integrate/sources/http/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to InfluxDB"
         },
@@ -583,7 +583,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/kafka.md",
+          "path": "guides/integrate/sources/http/kafka.md",
           "series_position": null,
           "title": "Send logs from HTTP to Kafka"
         },
@@ -592,7 +592,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/logdna.md",
+          "path": "guides/integrate/sources/http/logdna.md",
           "series_position": null,
           "title": "Send logs from HTTP to LogDNA"
         },
@@ -601,7 +601,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/loki.md",
+          "path": "guides/integrate/sources/http/loki.md",
           "series_position": null,
           "title": "Send logs from HTTP to Loki"
         },
@@ -610,7 +610,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/new_relic_logs.md",
+          "path": "guides/integrate/sources/http/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to New Relic"
         },
@@ -619,7 +619,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/papertrail.md",
+          "path": "guides/integrate/sources/http/papertrail.md",
           "series_position": null,
           "title": "Send logs from HTTP to Papertrail"
         },
@@ -628,7 +628,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/sematext_logs.md",
+          "path": "guides/integrate/sources/http/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from HTTP to Sematext"
         },
@@ -637,7 +637,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/splunk_hec.md",
+          "path": "guides/integrate/sources/http/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from HTTP to a Splunk HEC"
         },
@@ -646,7 +646,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/socket.md",
+          "path": "guides/integrate/sources/http/socket.md",
           "series_position": null,
           "title": "Send logs from HTTP to a TCP, UDP, or UDS socket"
         },
@@ -655,7 +655,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/file.md",
+          "path": "guides/integrate/sources/http/file.md",
           "series_position": null,
           "title": "Send logs from HTTP to a file"
         },
@@ -664,7 +664,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/http.md",
+          "path": "guides/integrate/sources/http/http.md",
           "series_position": null,
           "title": "Send logs from HTTP to an HTTP endpoint"
         },
@@ -673,7 +673,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/http/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/http/vector.md",
+          "path": "guides/integrate/sources/http/vector.md",
           "series_position": null,
           "title": "Send logs from HTTP to another Vector instance"
         },
@@ -682,7 +682,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/journald/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to AWS Cloudwatch"
         },
@@ -691,7 +691,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/journald/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from Journald to AWS Kinesis Data Streams"
         },
@@ -700,7 +700,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/journald/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from Journald to AWS Kinesis Firehose"
         },
@@ -709,7 +709,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/aws_s3.md",
+          "path": "guides/integrate/sources/journald/aws_s3.md",
           "series_position": null,
           "title": "Send logs from Journald to AWS S3"
         },
@@ -718,7 +718,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/pulsar.md",
+          "path": "guides/integrate/sources/journald/pulsar.md",
           "series_position": null,
           "title": "Send logs from Journald to Apache Pulsar"
         },
@@ -727,7 +727,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/clickhouse.md",
+          "path": "guides/integrate/sources/journald/clickhouse.md",
           "series_position": null,
           "title": "Send logs from Journald to Clickhouse"
         },
@@ -736,7 +736,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/datadog_logs.md",
+          "path": "guides/integrate/sources/journald/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to Datadog"
         },
@@ -745,7 +745,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/elasticsearch.md",
+          "path": "guides/integrate/sources/journald/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from Journald to Elasticsearch"
         },
@@ -754,7 +754,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/journald/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from Journald to GCP Cloud Storage (GCS)"
         },
@@ -763,7 +763,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/gcp_pubsub.md",
+          "path": "guides/integrate/sources/journald/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from Journald to GCP PubSub"
         },
@@ -772,7 +772,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/journald/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to GCP Stackdriver"
         },
@@ -781,7 +781,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/honeycomb.md",
+          "path": "guides/integrate/sources/journald/honeycomb.md",
           "series_position": null,
           "title": "Send logs from Journald to Honeycomb"
         },
@@ -790,7 +790,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/humio_logs.md",
+          "path": "guides/integrate/sources/journald/humio_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to Humio"
         },
@@ -799,7 +799,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/influxdb_logs.md",
+          "path": "guides/integrate/sources/journald/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to InfluxDB"
         },
@@ -808,7 +808,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/kafka.md",
+          "path": "guides/integrate/sources/journald/kafka.md",
           "series_position": null,
           "title": "Send logs from Journald to Kafka"
         },
@@ -817,7 +817,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/logdna.md",
+          "path": "guides/integrate/sources/journald/logdna.md",
           "series_position": null,
           "title": "Send logs from Journald to LogDNA"
         },
@@ -826,7 +826,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/loki.md",
+          "path": "guides/integrate/sources/journald/loki.md",
           "series_position": null,
           "title": "Send logs from Journald to Loki"
         },
@@ -835,7 +835,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/new_relic_logs.md",
+          "path": "guides/integrate/sources/journald/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to New Relic"
         },
@@ -844,7 +844,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/papertrail.md",
+          "path": "guides/integrate/sources/journald/papertrail.md",
           "series_position": null,
           "title": "Send logs from Journald to Papertrail"
         },
@@ -853,7 +853,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/sematext_logs.md",
+          "path": "guides/integrate/sources/journald/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from Journald to Sematext"
         },
@@ -862,7 +862,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/splunk_hec.md",
+          "path": "guides/integrate/sources/journald/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from Journald to a Splunk HEC"
         },
@@ -871,7 +871,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/socket.md",
+          "path": "guides/integrate/sources/journald/socket.md",
           "series_position": null,
           "title": "Send logs from Journald to a TCP, UDP, or UDS socket"
         },
@@ -880,7 +880,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/file.md",
+          "path": "guides/integrate/sources/journald/file.md",
           "series_position": null,
           "title": "Send logs from Journald to a file"
         },
@@ -889,7 +889,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/http.md",
+          "path": "guides/integrate/sources/journald/http.md",
           "series_position": null,
           "title": "Send logs from Journald to an HTTP endpoint"
         },
@@ -898,7 +898,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/journald/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/journald/vector.md",
+          "path": "guides/integrate/sources/journald/vector.md",
           "series_position": null,
           "title": "Send logs from Journald to another Vector instance"
         },
@@ -907,7 +907,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/kafka/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to AWS Cloudwatch"
         },
@@ -916,7 +916,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/kafka/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from Kafka to AWS Kinesis Data Streams"
         },
@@ -925,7 +925,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/kafka/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from Kafka to AWS Kinesis Firehose"
         },
@@ -934,7 +934,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/aws_s3.md",
+          "path": "guides/integrate/sources/kafka/aws_s3.md",
           "series_position": null,
           "title": "Send logs from Kafka to AWS S3"
         },
@@ -943,7 +943,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/pulsar.md",
+          "path": "guides/integrate/sources/kafka/pulsar.md",
           "series_position": null,
           "title": "Send logs from Kafka to Apache Pulsar"
         },
@@ -952,7 +952,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/clickhouse.md",
+          "path": "guides/integrate/sources/kafka/clickhouse.md",
           "series_position": null,
           "title": "Send logs from Kafka to Clickhouse"
         },
@@ -961,7 +961,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/datadog_logs.md",
+          "path": "guides/integrate/sources/kafka/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to Datadog"
         },
@@ -970,7 +970,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/elasticsearch.md",
+          "path": "guides/integrate/sources/kafka/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from Kafka to Elasticsearch"
         },
@@ -979,7 +979,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/kafka/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from Kafka to GCP Cloud Storage (GCS)"
         },
@@ -988,7 +988,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/gcp_pubsub.md",
+          "path": "guides/integrate/sources/kafka/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from Kafka to GCP PubSub"
         },
@@ -997,7 +997,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/kafka/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to GCP Stackdriver"
         },
@@ -1006,7 +1006,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/honeycomb.md",
+          "path": "guides/integrate/sources/kafka/honeycomb.md",
           "series_position": null,
           "title": "Send logs from Kafka to Honeycomb"
         },
@@ -1015,7 +1015,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/humio_logs.md",
+          "path": "guides/integrate/sources/kafka/humio_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to Humio"
         },
@@ -1024,7 +1024,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/influxdb_logs.md",
+          "path": "guides/integrate/sources/kafka/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to InfluxDB"
         },
@@ -1033,7 +1033,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/kafka.md",
+          "path": "guides/integrate/sources/kafka/kafka.md",
           "series_position": null,
           "title": "Send logs from Kafka to Kafka"
         },
@@ -1042,7 +1042,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/logdna.md",
+          "path": "guides/integrate/sources/kafka/logdna.md",
           "series_position": null,
           "title": "Send logs from Kafka to LogDNA"
         },
@@ -1051,7 +1051,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/loki.md",
+          "path": "guides/integrate/sources/kafka/loki.md",
           "series_position": null,
           "title": "Send logs from Kafka to Loki"
         },
@@ -1060,7 +1060,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/new_relic_logs.md",
+          "path": "guides/integrate/sources/kafka/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to New Relic"
         },
@@ -1069,7 +1069,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/papertrail.md",
+          "path": "guides/integrate/sources/kafka/papertrail.md",
           "series_position": null,
           "title": "Send logs from Kafka to Papertrail"
         },
@@ -1078,7 +1078,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/sematext_logs.md",
+          "path": "guides/integrate/sources/kafka/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from Kafka to Sematext"
         },
@@ -1087,7 +1087,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/splunk_hec.md",
+          "path": "guides/integrate/sources/kafka/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from Kafka to a Splunk HEC"
         },
@@ -1096,7 +1096,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/socket.md",
+          "path": "guides/integrate/sources/kafka/socket.md",
           "series_position": null,
           "title": "Send logs from Kafka to a TCP, UDP, or UDS socket"
         },
@@ -1105,7 +1105,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/file.md",
+          "path": "guides/integrate/sources/kafka/file.md",
           "series_position": null,
           "title": "Send logs from Kafka to a file"
         },
@@ -1114,7 +1114,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/http.md",
+          "path": "guides/integrate/sources/kafka/http.md",
           "series_position": null,
           "title": "Send logs from Kafka to an HTTP endpoint"
         },
@@ -1123,7 +1123,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/kafka/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/kafka/vector.md",
+          "path": "guides/integrate/sources/kafka/vector.md",
           "series_position": null,
           "title": "Send logs from Kafka to another Vector instance"
         },
@@ -1132,7 +1132,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/stdin/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to AWS Cloudwatch"
         },
@@ -1141,7 +1141,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/stdin/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from STDIN to AWS Kinesis Data Streams"
         },
@@ -1150,7 +1150,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/stdin/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from STDIN to AWS Kinesis Firehose"
         },
@@ -1159,7 +1159,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/aws_s3.md",
+          "path": "guides/integrate/sources/stdin/aws_s3.md",
           "series_position": null,
           "title": "Send logs from STDIN to AWS S3"
         },
@@ -1168,7 +1168,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/pulsar.md",
+          "path": "guides/integrate/sources/stdin/pulsar.md",
           "series_position": null,
           "title": "Send logs from STDIN to Apache Pulsar"
         },
@@ -1177,7 +1177,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/clickhouse.md",
+          "path": "guides/integrate/sources/stdin/clickhouse.md",
           "series_position": null,
           "title": "Send logs from STDIN to Clickhouse"
         },
@@ -1186,7 +1186,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/datadog_logs.md",
+          "path": "guides/integrate/sources/stdin/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to Datadog"
         },
@@ -1195,7 +1195,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/elasticsearch.md",
+          "path": "guides/integrate/sources/stdin/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from STDIN to Elasticsearch"
         },
@@ -1204,7 +1204,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/stdin/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from STDIN to GCP Cloud Storage (GCS)"
         },
@@ -1213,7 +1213,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/gcp_pubsub.md",
+          "path": "guides/integrate/sources/stdin/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from STDIN to GCP PubSub"
         },
@@ -1222,7 +1222,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/stdin/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to GCP Stackdriver"
         },
@@ -1231,7 +1231,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/honeycomb.md",
+          "path": "guides/integrate/sources/stdin/honeycomb.md",
           "series_position": null,
           "title": "Send logs from STDIN to Honeycomb"
         },
@@ -1240,7 +1240,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/humio_logs.md",
+          "path": "guides/integrate/sources/stdin/humio_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to Humio"
         },
@@ -1249,7 +1249,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/influxdb_logs.md",
+          "path": "guides/integrate/sources/stdin/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to InfluxDB"
         },
@@ -1258,7 +1258,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/kafka.md",
+          "path": "guides/integrate/sources/stdin/kafka.md",
           "series_position": null,
           "title": "Send logs from STDIN to Kafka"
         },
@@ -1267,7 +1267,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/logdna.md",
+          "path": "guides/integrate/sources/stdin/logdna.md",
           "series_position": null,
           "title": "Send logs from STDIN to LogDNA"
         },
@@ -1276,7 +1276,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/loki.md",
+          "path": "guides/integrate/sources/stdin/loki.md",
           "series_position": null,
           "title": "Send logs from STDIN to Loki"
         },
@@ -1285,7 +1285,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/new_relic_logs.md",
+          "path": "guides/integrate/sources/stdin/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to New Relic"
         },
@@ -1294,7 +1294,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/papertrail.md",
+          "path": "guides/integrate/sources/stdin/papertrail.md",
           "series_position": null,
           "title": "Send logs from STDIN to Papertrail"
         },
@@ -1303,7 +1303,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/sematext_logs.md",
+          "path": "guides/integrate/sources/stdin/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from STDIN to Sematext"
         },
@@ -1312,7 +1312,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/splunk_hec.md",
+          "path": "guides/integrate/sources/stdin/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from STDIN to a Splunk HEC"
         },
@@ -1321,7 +1321,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/socket.md",
+          "path": "guides/integrate/sources/stdin/socket.md",
           "series_position": null,
           "title": "Send logs from STDIN to a TCP, UDP, or UDS socket"
         },
@@ -1330,7 +1330,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/file.md",
+          "path": "guides/integrate/sources/stdin/file.md",
           "series_position": null,
           "title": "Send logs from STDIN to a file"
         },
@@ -1339,7 +1339,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/http.md",
+          "path": "guides/integrate/sources/stdin/http.md",
           "series_position": null,
           "title": "Send logs from STDIN to an HTTP endpoint"
         },
@@ -1348,7 +1348,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/stdin/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/stdin/vector.md",
+          "path": "guides/integrate/sources/stdin/vector.md",
           "series_position": null,
           "title": "Send logs from STDIN to another Vector instance"
         },
@@ -1357,7 +1357,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to AWS Cloudwatch"
         },
@@ -1366,7 +1366,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/splunk_hec/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to AWS Kinesis Data Streams"
         },
@@ -1375,7 +1375,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/splunk_hec/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to AWS Kinesis Firehose"
         },
@@ -1384,7 +1384,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/aws_s3.md",
+          "path": "guides/integrate/sources/splunk_hec/aws_s3.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to AWS S3"
         },
@@ -1393,7 +1393,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/pulsar.md",
+          "path": "guides/integrate/sources/splunk_hec/pulsar.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Apache Pulsar"
         },
@@ -1402,7 +1402,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/clickhouse.md",
+          "path": "guides/integrate/sources/splunk_hec/clickhouse.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Clickhouse"
         },
@@ -1411,7 +1411,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/datadog_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Datadog"
         },
@@ -1420,7 +1420,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/elasticsearch.md",
+          "path": "guides/integrate/sources/splunk_hec/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Elasticsearch"
         },
@@ -1429,7 +1429,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/splunk_hec/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to GCP Cloud Storage (GCS)"
         },
@@ -1438,7 +1438,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/gcp_pubsub.md",
+          "path": "guides/integrate/sources/splunk_hec/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to GCP PubSub"
         },
@@ -1447,7 +1447,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to GCP Stackdriver"
         },
@@ -1456,7 +1456,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/honeycomb.md",
+          "path": "guides/integrate/sources/splunk_hec/honeycomb.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Honeycomb"
         },
@@ -1465,7 +1465,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/humio_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/humio_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Humio"
         },
@@ -1474,7 +1474,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/influxdb_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to InfluxDB"
         },
@@ -1483,7 +1483,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/kafka.md",
+          "path": "guides/integrate/sources/splunk_hec/kafka.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Kafka"
         },
@@ -1492,7 +1492,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/logdna.md",
+          "path": "guides/integrate/sources/splunk_hec/logdna.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to LogDNA"
         },
@@ -1501,7 +1501,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/loki.md",
+          "path": "guides/integrate/sources/splunk_hec/loki.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Loki"
         },
@@ -1510,7 +1510,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/new_relic_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to New Relic"
         },
@@ -1519,7 +1519,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/papertrail.md",
+          "path": "guides/integrate/sources/splunk_hec/papertrail.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Papertrail"
         },
@@ -1528,7 +1528,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/sematext_logs.md",
+          "path": "guides/integrate/sources/splunk_hec/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to Sematext"
         },
@@ -1537,7 +1537,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/splunk_hec.md",
+          "path": "guides/integrate/sources/splunk_hec/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to a Splunk HEC"
         },
@@ -1546,7 +1546,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/socket.md",
+          "path": "guides/integrate/sources/splunk_hec/socket.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to a TCP, UDP, or UDS socket"
         },
@@ -1555,7 +1555,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/file.md",
+          "path": "guides/integrate/sources/splunk_hec/file.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to a file"
         },
@@ -1564,7 +1564,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/http.md",
+          "path": "guides/integrate/sources/splunk_hec/http.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to an HTTP endpoint"
         },
@@ -1573,7 +1573,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/splunk_hec/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/splunk_hec/vector.md",
+          "path": "guides/integrate/sources/splunk_hec/vector.md",
           "series_position": null,
           "title": "Send logs from Splunk HEC to another Vector instance"
         },
@@ -1582,7 +1582,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/syslog/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to AWS Cloudwatch"
         },
@@ -1591,7 +1591,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/syslog/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from Syslog to AWS Kinesis Data Streams"
         },
@@ -1600,7 +1600,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/syslog/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from Syslog to AWS Kinesis Firehose"
         },
@@ -1609,7 +1609,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/aws_s3.md",
+          "path": "guides/integrate/sources/syslog/aws_s3.md",
           "series_position": null,
           "title": "Send logs from Syslog to AWS S3"
         },
@@ -1618,7 +1618,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/pulsar.md",
+          "path": "guides/integrate/sources/syslog/pulsar.md",
           "series_position": null,
           "title": "Send logs from Syslog to Apache Pulsar"
         },
@@ -1627,7 +1627,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/clickhouse.md",
+          "path": "guides/integrate/sources/syslog/clickhouse.md",
           "series_position": null,
           "title": "Send logs from Syslog to Clickhouse"
         },
@@ -1636,7 +1636,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/datadog_logs.md",
+          "path": "guides/integrate/sources/syslog/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to Datadog"
         },
@@ -1645,7 +1645,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/elasticsearch.md",
+          "path": "guides/integrate/sources/syslog/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from Syslog to Elasticsearch"
         },
@@ -1654,7 +1654,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/syslog/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from Syslog to GCP Cloud Storage (GCS)"
         },
@@ -1663,7 +1663,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/gcp_pubsub.md",
+          "path": "guides/integrate/sources/syslog/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from Syslog to GCP PubSub"
         },
@@ -1672,7 +1672,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/syslog/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to GCP Stackdriver"
         },
@@ -1681,7 +1681,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/honeycomb.md",
+          "path": "guides/integrate/sources/syslog/honeycomb.md",
           "series_position": null,
           "title": "Send logs from Syslog to Honeycomb"
         },
@@ -1690,7 +1690,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/humio_logs.md",
+          "path": "guides/integrate/sources/syslog/humio_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to Humio"
         },
@@ -1699,7 +1699,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/influxdb_logs.md",
+          "path": "guides/integrate/sources/syslog/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to InfluxDB"
         },
@@ -1708,7 +1708,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/kafka.md",
+          "path": "guides/integrate/sources/syslog/kafka.md",
           "series_position": null,
           "title": "Send logs from Syslog to Kafka"
         },
@@ -1717,7 +1717,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/logdna.md",
+          "path": "guides/integrate/sources/syslog/logdna.md",
           "series_position": null,
           "title": "Send logs from Syslog to LogDNA"
         },
@@ -1726,7 +1726,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/loki.md",
+          "path": "guides/integrate/sources/syslog/loki.md",
           "series_position": null,
           "title": "Send logs from Syslog to Loki"
         },
@@ -1735,7 +1735,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/new_relic_logs.md",
+          "path": "guides/integrate/sources/syslog/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to New Relic"
         },
@@ -1744,7 +1744,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/papertrail.md",
+          "path": "guides/integrate/sources/syslog/papertrail.md",
           "series_position": null,
           "title": "Send logs from Syslog to Papertrail"
         },
@@ -1753,7 +1753,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/sematext_logs.md",
+          "path": "guides/integrate/sources/syslog/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from Syslog to Sematext"
         },
@@ -1762,7 +1762,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/splunk_hec.md",
+          "path": "guides/integrate/sources/syslog/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from Syslog to a Splunk HEC"
         },
@@ -1771,7 +1771,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/socket.md",
+          "path": "guides/integrate/sources/syslog/socket.md",
           "series_position": null,
           "title": "Send logs from Syslog to a TCP, UDP, or UDS socket"
         },
@@ -1780,7 +1780,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/file.md",
+          "path": "guides/integrate/sources/syslog/file.md",
           "series_position": null,
           "title": "Send logs from Syslog to a file"
         },
@@ -1789,7 +1789,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/http.md",
+          "path": "guides/integrate/sources/syslog/http.md",
           "series_position": null,
           "title": "Send logs from Syslog to an HTTP endpoint"
         },
@@ -1798,7 +1798,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/syslog/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/syslog/vector.md",
+          "path": "guides/integrate/sources/syslog/vector.md",
           "series_position": null,
           "title": "Send logs from Syslog to another Vector instance"
         },
@@ -1807,7 +1807,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/socket/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to AWS Cloudwatch"
         },
@@ -1816,7 +1816,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/socket/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to AWS Kinesis Data Streams"
         },
@@ -1825,7 +1825,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/socket/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to AWS Kinesis Firehose"
         },
@@ -1834,7 +1834,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/aws_s3.md",
+          "path": "guides/integrate/sources/socket/aws_s3.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to AWS S3"
         },
@@ -1843,7 +1843,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/pulsar.md",
+          "path": "guides/integrate/sources/socket/pulsar.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Apache Pulsar"
         },
@@ -1852,7 +1852,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/clickhouse.md",
+          "path": "guides/integrate/sources/socket/clickhouse.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Clickhouse"
         },
@@ -1861,7 +1861,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/datadog_logs.md",
+          "path": "guides/integrate/sources/socket/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Datadog"
         },
@@ -1870,7 +1870,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/elasticsearch.md",
+          "path": "guides/integrate/sources/socket/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Elasticsearch"
         },
@@ -1879,7 +1879,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/socket/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to GCP Cloud Storage (GCS)"
         },
@@ -1888,7 +1888,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/gcp_pubsub.md",
+          "path": "guides/integrate/sources/socket/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to GCP PubSub"
         },
@@ -1897,7 +1897,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/socket/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to GCP Stackdriver"
         },
@@ -1906,7 +1906,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/honeycomb.md",
+          "path": "guides/integrate/sources/socket/honeycomb.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Honeycomb"
         },
@@ -1915,7 +1915,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/humio_logs.md",
+          "path": "guides/integrate/sources/socket/humio_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Humio"
         },
@@ -1924,7 +1924,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/influxdb_logs.md",
+          "path": "guides/integrate/sources/socket/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to InfluxDB"
         },
@@ -1933,7 +1933,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/kafka.md",
+          "path": "guides/integrate/sources/socket/kafka.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Kafka"
         },
@@ -1942,7 +1942,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/logdna.md",
+          "path": "guides/integrate/sources/socket/logdna.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to LogDNA"
         },
@@ -1951,7 +1951,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/loki.md",
+          "path": "guides/integrate/sources/socket/loki.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Loki"
         },
@@ -1960,7 +1960,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/new_relic_logs.md",
+          "path": "guides/integrate/sources/socket/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to New Relic"
         },
@@ -1969,7 +1969,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/papertrail.md",
+          "path": "guides/integrate/sources/socket/papertrail.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Papertrail"
         },
@@ -1978,7 +1978,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/sematext_logs.md",
+          "path": "guides/integrate/sources/socket/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to Sematext"
         },
@@ -1987,7 +1987,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/splunk_hec.md",
+          "path": "guides/integrate/sources/socket/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to a Splunk HEC"
         },
@@ -1996,7 +1996,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/socket.md",
+          "path": "guides/integrate/sources/socket/socket.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to a TCP, UDP, or UDS socket"
         },
@@ -2005,7 +2005,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/file.md",
+          "path": "guides/integrate/sources/socket/file.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to a file"
         },
@@ -2014,7 +2014,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/http.md",
+          "path": "guides/integrate/sources/socket/http.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to an HTTP endpoint"
         },
@@ -2023,7 +2023,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/socket/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/socket/vector.md",
+          "path": "guides/integrate/sources/socket/vector.md",
           "series_position": null,
           "title": "Send logs from a TCP, UDP, or UDS socket to another Vector instance"
         },
@@ -2032,7 +2032,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sources/file/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs from a file to AWS Cloudwatch"
         },
@@ -2041,7 +2041,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/aws_kinesis_streams.md",
+          "path": "guides/integrate/sources/file/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs from a file to AWS Kinesis Data Streams"
         },
@@ -2050,7 +2050,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sources/file/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs from a file to AWS Kinesis Firehose"
         },
@@ -2059,7 +2059,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/aws_s3.md",
+          "path": "guides/integrate/sources/file/aws_s3.md",
           "series_position": null,
           "title": "Send logs from a file to AWS S3"
         },
@@ -2068,7 +2068,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/pulsar.md",
+          "path": "guides/integrate/sources/file/pulsar.md",
           "series_position": null,
           "title": "Send logs from a file to Apache Pulsar"
         },
@@ -2077,7 +2077,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/clickhouse.md",
+          "path": "guides/integrate/sources/file/clickhouse.md",
           "series_position": null,
           "title": "Send logs from a file to Clickhouse"
         },
@@ -2086,7 +2086,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/datadog_logs.md",
+          "path": "guides/integrate/sources/file/datadog_logs.md",
           "series_position": null,
           "title": "Send logs from a file to Datadog"
         },
@@ -2095,7 +2095,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/elasticsearch.md",
+          "path": "guides/integrate/sources/file/elasticsearch.md",
           "series_position": null,
           "title": "Send logs from a file to Elasticsearch"
         },
@@ -2104,7 +2104,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/gcp_cloud_storage.md",
+          "path": "guides/integrate/sources/file/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs from a file to GCP Cloud Storage (GCS)"
         },
@@ -2113,7 +2113,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/gcp_pubsub.md",
+          "path": "guides/integrate/sources/file/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs from a file to GCP PubSub"
         },
@@ -2122,7 +2122,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sources/file/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs from a file to GCP Stackdriver"
         },
@@ -2131,7 +2131,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/honeycomb.md",
+          "path": "guides/integrate/sources/file/honeycomb.md",
           "series_position": null,
           "title": "Send logs from a file to Honeycomb"
         },
@@ -2140,7 +2140,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/humio_logs.md",
+          "path": "guides/integrate/sources/file/humio_logs.md",
           "series_position": null,
           "title": "Send logs from a file to Humio"
         },
@@ -2149,7 +2149,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/influxdb_logs.md",
+          "path": "guides/integrate/sources/file/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs from a file to InfluxDB"
         },
@@ -2158,7 +2158,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/kafka.md",
+          "path": "guides/integrate/sources/file/kafka.md",
           "series_position": null,
           "title": "Send logs from a file to Kafka"
         },
@@ -2167,7 +2167,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/logdna.md",
+          "path": "guides/integrate/sources/file/logdna.md",
           "series_position": null,
           "title": "Send logs from a file to LogDNA"
         },
@@ -2176,7 +2176,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/loki.md",
+          "path": "guides/integrate/sources/file/loki.md",
           "series_position": null,
           "title": "Send logs from a file to Loki"
         },
@@ -2185,7 +2185,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/new_relic_logs.md",
+          "path": "guides/integrate/sources/file/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs from a file to New Relic"
         },
@@ -2194,7 +2194,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/papertrail.md",
+          "path": "guides/integrate/sources/file/papertrail.md",
           "series_position": null,
           "title": "Send logs from a file to Papertrail"
         },
@@ -2203,7 +2203,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/sematext_logs.md",
+          "path": "guides/integrate/sources/file/sematext_logs.md",
           "series_position": null,
           "title": "Send logs from a file to Sematext"
         },
@@ -2212,7 +2212,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/splunk_hec.md",
+          "path": "guides/integrate/sources/file/splunk_hec.md",
           "series_position": null,
           "title": "Send logs from a file to a Splunk HEC"
         },
@@ -2221,7 +2221,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/socket.md",
+          "path": "guides/integrate/sources/file/socket.md",
           "series_position": null,
           "title": "Send logs from a file to a TCP, UDP, or UDS socket"
         },
@@ -2230,7 +2230,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/file.md",
+          "path": "guides/integrate/sources/file/file.md",
           "series_position": null,
           "title": "Send logs from a file to a file"
         },
@@ -2239,7 +2239,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/http.md",
+          "path": "guides/integrate/sources/file/http.md",
           "series_position": null,
           "title": "Send logs from a file to an HTTP endpoint"
         },
@@ -2248,7 +2248,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/file/vector",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/file/vector.md",
+          "path": "guides/integrate/sources/file/vector.md",
           "series_position": null,
           "title": "Send logs from a file to another Vector instance"
         },
@@ -2257,7 +2257,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/aws_cloudwatch_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/aws_cloudwatch_logs.md",
+          "path": "guides/integrate/sinks/aws_cloudwatch_logs.md",
           "series_position": null,
           "title": "Send logs to AWS Cloudwatch"
         },
@@ -2266,7 +2266,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/aws_kinesis_streams",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/aws_kinesis_streams.md",
+          "path": "guides/integrate/sinks/aws_kinesis_streams.md",
           "series_position": null,
           "title": "Send logs to AWS Kinesis Data Streams"
         },
@@ -2275,7 +2275,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/aws_kinesis_firehose",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/aws_kinesis_firehose.md",
+          "path": "guides/integrate/sinks/aws_kinesis_firehose.md",
           "series_position": null,
           "title": "Send logs to AWS Kinesis Firehose"
         },
@@ -2284,7 +2284,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/aws_s3",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/aws_s3.md",
+          "path": "guides/integrate/sinks/aws_s3.md",
           "series_position": null,
           "title": "Send logs to AWS S3"
         },
@@ -2293,7 +2293,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/pulsar",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/pulsar.md",
+          "path": "guides/integrate/sinks/pulsar.md",
           "series_position": null,
           "title": "Send logs to Apache Pulsar"
         },
@@ -2302,7 +2302,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/clickhouse",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/clickhouse.md",
+          "path": "guides/integrate/sinks/clickhouse.md",
           "series_position": null,
           "title": "Send logs to Clickhouse"
         },
@@ -2311,7 +2311,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/datadog_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/datadog_logs.md",
+          "path": "guides/integrate/sinks/datadog_logs.md",
           "series_position": null,
           "title": "Send logs to Datadog"
         },
@@ -2320,7 +2320,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/elasticsearch",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/elasticsearch.md",
+          "path": "guides/integrate/sinks/elasticsearch.md",
           "series_position": null,
           "title": "Send logs to Elasticsearch"
         },
@@ -2329,7 +2329,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/gcp_cloud_storage",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/gcp_cloud_storage.md",
+          "path": "guides/integrate/sinks/gcp_cloud_storage.md",
           "series_position": null,
           "title": "Send logs to GCP Cloud Storage (GCS)"
         },
@@ -2338,7 +2338,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/gcp_pubsub",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/gcp_pubsub.md",
+          "path": "guides/integrate/sinks/gcp_pubsub.md",
           "series_position": null,
           "title": "Send logs to GCP PubSub"
         },
@@ -2347,7 +2347,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/gcp_stackdriver_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/gcp_stackdriver_logs.md",
+          "path": "guides/integrate/sinks/gcp_stackdriver_logs.md",
           "series_position": null,
           "title": "Send logs to GCP Stackdriver"
         },
@@ -2356,7 +2356,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/honeycomb",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/honeycomb.md",
+          "path": "guides/integrate/sinks/honeycomb.md",
           "series_position": null,
           "title": "Send logs to Honeycomb"
         },
@@ -2365,7 +2365,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/humio_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/humio_logs.md",
+          "path": "guides/integrate/sinks/humio_logs.md",
           "series_position": null,
           "title": "Send logs to Humio"
         },
@@ -2374,7 +2374,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/influxdb_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/influxdb_logs.md",
+          "path": "guides/integrate/sinks/influxdb_logs.md",
           "series_position": null,
           "title": "Send logs to InfluxDB"
         },
@@ -2383,7 +2383,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/kafka",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/kafka.md",
+          "path": "guides/integrate/sinks/kafka.md",
           "series_position": null,
           "title": "Send logs to Kafka"
         },
@@ -2392,7 +2392,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/logdna",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/logdna.md",
+          "path": "guides/integrate/sinks/logdna.md",
           "series_position": null,
           "title": "Send logs to LogDNA"
         },
@@ -2401,7 +2401,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/loki",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/loki.md",
+          "path": "guides/integrate/sinks/loki.md",
           "series_position": null,
           "title": "Send logs to Loki"
         },
@@ -2410,7 +2410,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/new_relic_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/new_relic_logs.md",
+          "path": "guides/integrate/sinks/new_relic_logs.md",
           "series_position": null,
           "title": "Send logs to New Relic"
         },
@@ -2419,7 +2419,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/papertrail",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/papertrail.md",
+          "path": "guides/integrate/sinks/papertrail.md",
           "series_position": null,
           "title": "Send logs to Papertrail"
         },
@@ -2428,7 +2428,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/sematext_logs",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/sematext_logs.md",
+          "path": "guides/integrate/sinks/sematext_logs.md",
           "series_position": null,
           "title": "Send logs to Sematext"
         },
@@ -2437,7 +2437,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/splunk_hec",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/splunk_hec.md",
+          "path": "guides/integrate/sinks/splunk_hec.md",
           "series_position": null,
           "title": "Send logs to a Splunk HEC"
         },
@@ -2446,7 +2446,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/socket",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/socket.md",
+          "path": "guides/integrate/sinks/socket.md",
           "series_position": null,
           "title": "Send logs to a TCP, UDP, or UDS socket"
         },
@@ -2455,7 +2455,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/file",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/file.md",
+          "path": "guides/integrate/sinks/file.md",
           "series_position": null,
           "title": "Send logs to a file"
         },
@@ -2464,7 +2464,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/http",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/http.md",
+          "path": "guides/integrate/sinks/http.md",
           "series_position": null,
           "title": "Send logs to an HTTP endpoint"
         },
@@ -2473,7 +2473,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus/aws_cloudwatch_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus/aws_cloudwatch_metrics.md",
+          "path": "guides/integrate/sources/prometheus/aws_cloudwatch_metrics.md",
           "series_position": null,
           "title": "Send metrics from Prometheus to AWS Cloudwatch"
         },
@@ -2482,7 +2482,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus/datadog_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus/datadog_metrics.md",
+          "path": "guides/integrate/sources/prometheus/datadog_metrics.md",
           "series_position": null,
           "title": "Send metrics from Prometheus to Datadog"
         },
@@ -2491,7 +2491,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus/influxdb_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus/influxdb_metrics.md",
+          "path": "guides/integrate/sources/prometheus/influxdb_metrics.md",
           "series_position": null,
           "title": "Send metrics from Prometheus to InfluxDB"
         },
@@ -2500,7 +2500,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus/prometheus",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus/prometheus.md",
+          "path": "guides/integrate/sources/prometheus/prometheus.md",
           "series_position": null,
           "title": "Send metrics from Prometheus to Prometheus"
         },
@@ -2509,7 +2509,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/prometheus/statsd",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/prometheus/statsd.md",
+          "path": "guides/integrate/sources/prometheus/statsd.md",
           "series_position": null,
           "title": "Send metrics from Prometheus to Statsd"
         },
@@ -2518,7 +2518,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd/aws_cloudwatch_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd/aws_cloudwatch_metrics.md",
+          "path": "guides/integrate/sources/statsd/aws_cloudwatch_metrics.md",
           "series_position": null,
           "title": "Send metrics from Statsd to AWS Cloudwatch"
         },
@@ -2527,7 +2527,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd/datadog_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd/datadog_metrics.md",
+          "path": "guides/integrate/sources/statsd/datadog_metrics.md",
           "series_position": null,
           "title": "Send metrics from Statsd to Datadog"
         },
@@ -2536,7 +2536,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd/influxdb_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd/influxdb_metrics.md",
+          "path": "guides/integrate/sources/statsd/influxdb_metrics.md",
           "series_position": null,
           "title": "Send metrics from Statsd to InfluxDB"
         },
@@ -2545,7 +2545,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd/prometheus",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd/prometheus.md",
+          "path": "guides/integrate/sources/statsd/prometheus.md",
           "series_position": null,
           "title": "Send metrics from Statsd to Prometheus"
         },
@@ -2554,7 +2554,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sources/statsd/statsd",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sources/statsd/statsd.md",
+          "path": "guides/integrate/sources/statsd/statsd.md",
           "series_position": null,
           "title": "Send metrics from Statsd to Statsd"
         },
@@ -2563,7 +2563,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/aws_cloudwatch_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/aws_cloudwatch_metrics.md",
+          "path": "guides/integrate/sinks/aws_cloudwatch_metrics.md",
           "series_position": null,
           "title": "Send metrics to AWS Cloudwatch"
         },
@@ -2572,7 +2572,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/datadog_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/datadog_metrics.md",
+          "path": "guides/integrate/sinks/datadog_metrics.md",
           "series_position": null,
           "title": "Send metrics to Datadog"
         },
@@ -2581,7 +2581,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/influxdb_metrics",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/influxdb_metrics.md",
+          "path": "guides/integrate/sinks/influxdb_metrics.md",
           "series_position": null,
           "title": "Send metrics to InfluxDB"
         },
@@ -2590,7 +2590,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/prometheus",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/prometheus.md",
+          "path": "guides/integrate/sinks/prometheus.md",
           "series_position": null,
           "title": "Send metrics to Prometheus"
         },
@@ -2599,7 +2599,7 @@ module.exports = {
           "description": null,
           "id": "/integrate/sinks/statsd",
           "last_modified_on": null,
-          "path": "website/guides/integrate/sinks/statsd.md",
+          "path": "guides/integrate/sinks/statsd.md",
           "series_position": null,
           "title": "Send metrics to Statsd"
         }
@@ -2616,7 +2616,7 @@ module.exports = {
       "description": "The `encoding` option is now required for these sinks",
       "hide_on_release_notes": false,
       "id": "2019-10-21-require-encoding-option-for-console-and-file-sinks",
-      "path": "website/highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks.md",
+      "path": "highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks.md",
       "permalink": "/highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks/",
       "tags": [
         "type: breaking change",
@@ -2632,7 +2632,7 @@ module.exports = {
       "description": "These architectures are widely used in embeded devices & servers",
       "hide_on_release_notes": false,
       "id": "2019-11-19-arm-support-on-linux",
-      "path": "website/highlights/2019-11-19-arm-support-on-linux.md",
+      "path": "highlights/2019-11-19-arm-support-on-linux.md",
       "permalink": "/highlights/2019-11-19-arm-support-on-linux/",
       "tags": [
         "type: new feature",
@@ -2648,7 +2648,7 @@ module.exports = {
       "description": "Bringing the performance and reliability of Vector to Windows",
       "hide_on_release_notes": false,
       "id": "2019-11-21-windows-support",
-      "path": "website/highlights/2019-11-21-windows-support.md",
+      "path": "highlights/2019-11-21-windows-support.md",
       "permalink": "/highlights/2019-11-21-windows-support/",
       "tags": [
         "type: new feature",
@@ -2663,7 +2663,7 @@ module.exports = {
       "description": "Treating your Vector configuration files as code",
       "hide_on_release_notes": false,
       "id": "2019-11-25-unit-testing-vector-config-files",
-      "path": "website/highlights/2019-11-25-unit-testing-vector-config-files.md",
+      "path": "highlights/2019-11-25-unit-testing-vector-config-files.md",
       "permalink": "/highlights/2019-11-25-unit-testing-vector-config-files/",
       "tags": [
         "type: new feature",
@@ -2677,7 +2677,7 @@ module.exports = {
       "description": "This ensures that naming is consistent for the upcoming `datadog_logs` sink",
       "hide_on_release_notes": false,
       "id": "2019-12-04-rename-datadog-sink-to-datadog_metrics",
-      "path": "website/highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics.md",
+      "path": "highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics.md",
       "permalink": "/highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics/",
       "tags": [
         "type: breaking change",
@@ -2692,7 +2692,7 @@ module.exports = {
       "description": "Point Vector to custom DNS servers",
       "hide_on_release_notes": false,
       "id": "2019-12-13-custom-dns",
-      "path": "website/highlights/2019-12-13-custom-dns.md",
+      "path": "highlights/2019-12-13-custom-dns.md",
       "permalink": "/highlights/2019-12-13-custom-dns/",
       "tags": [
         "type: new feature",
@@ -2706,7 +2706,7 @@ module.exports = {
       "description": "Early adopters have a new Kuberenetes source to chew on",
       "hide_on_release_notes": false,
       "id": "2019-12-14-kubernetes-source-alpha",
-      "path": "website/highlights/2019-12-14-kubernetes-source-alpha.md",
+      "path": "highlights/2019-12-14-kubernetes-source-alpha.md",
       "permalink": "/highlights/2019-12-14-kubernetes-source-alpha/",
       "tags": [
         "type: new feature",
@@ -2721,7 +2721,7 @@ module.exports = {
       "description": "Enrich your events with EC2 metadata",
       "hide_on_release_notes": false,
       "id": "2019-12-16-ec2-metadata",
-      "path": "website/highlights/2019-12-16-ec2-metadata.md",
+      "path": "highlights/2019-12-16-ec2-metadata.md",
       "permalink": "/highlights/2019-12-16-ec2-metadata/",
       "tags": [
         "type: new feature",
@@ -2736,7 +2736,7 @@ module.exports = {
       "description": "We've simplified our socket based sources into a single `socket` source",
       "hide_on_release_notes": false,
       "id": "2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source",
-      "path": "website/highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source.md",
+      "path": "highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source.md",
       "permalink": "/highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source/",
       "tags": [
         "type: breaking change",
@@ -2752,7 +2752,7 @@ module.exports = {
       "description": "This renames the existing `tcp` sink to `socket`",
       "hide_on_release_notes": false,
       "id": "2020-01-03-move-existing-tcp-sink-into-socket-sink",
-      "path": "website/highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink.md",
+      "path": "highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink.md",
       "permalink": "/highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink/",
       "tags": [
         "type: breaking change",
@@ -2767,7 +2767,7 @@ module.exports = {
       "description": "Scrape prometheus metrics with Vector",
       "hide_on_release_notes": false,
       "id": "2020-01-07-prometheus-source",
-      "path": "website/highlights/2020-01-07-prometheus-source.md",
+      "path": "highlights/2020-01-07-prometheus-source.md",
       "permalink": "/highlights/2020-01-07-prometheus-source/",
       "tags": [
         "type: new feature",
@@ -2782,7 +2782,7 @@ module.exports = {
       "description": "We've simplified and organized our sink options",
       "hide_on_release_notes": false,
       "id": "2020-01-12-request-options-refactored",
-      "path": "website/highlights/2020-01-12-request-options-refactored.md",
+      "path": "highlights/2020-01-12-request-options-refactored.md",
       "permalink": "/highlights/2020-01-12-request-options-refactored/",
       "tags": [
         "type: breaking change",
@@ -2798,7 +2798,7 @@ module.exports = {
       "description": "This change achieve consistency with our `kafka` source and other Kafka clients",
       "hide_on_release_notes": false,
       "id": "2020-01-12-use-comma-delim-server-list-instead-of-an-array",
-      "path": "website/highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array.md",
+      "path": "highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array.md",
       "permalink": "/highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array/",
       "tags": [
         "type: breaking change",
@@ -2813,7 +2813,7 @@ module.exports = {
       "description": "This change ensures the `splunk_hec` source conforms to Vector's schema",
       "hide_on_release_notes": false,
       "id": "2020-01-14-rename-line-field-to-message",
-      "path": "website/highlights/2020-01-14-rename-line-field-to-message.md",
+      "path": "highlights/2020-01-14-rename-line-field-to-message.md",
       "permalink": "/highlights/2020-01-14-rename-line-field-to-message/",
       "tags": [
         "type: breaking change",
@@ -2828,7 +2828,7 @@ module.exports = {
       "description": "This gives you full control over which fields are indexed",
       "hide_on_release_notes": false,
       "id": "2020-01-20-splunk-hec-specify-indexed-fields",
-      "path": "website/highlights/2020-01-20-splunk-hec-specify-indexed-fields.md",
+      "path": "highlights/2020-01-20-splunk-hec-specify-indexed-fields.md",
       "permalink": "/highlights/2020-01-20-splunk-hec-specify-indexed-fields/",
       "tags": [
         "type: breaking change",
@@ -2843,7 +2843,7 @@ module.exports = {
       "description": "We've dropped redundant AWS options that may break backward compatibility",
       "hide_on_release_notes": true,
       "id": "2020-02-05-drop-aws-options",
-      "path": "website/highlights/2020-02-05-drop-aws-options.md",
+      "path": "highlights/2020-02-05-drop-aws-options.md",
       "permalink": "/highlights/2020-02-05-drop-aws-options/",
       "tags": [
         "type: breaking change",
@@ -2859,7 +2859,7 @@ module.exports = {
       "description": "Docker splits long messages by default, and now Vector merges them back for you",
       "hide_on_release_notes": false,
       "id": "2020-02-05-merge-partial-docker-events",
-      "path": "website/highlights/2020-02-05-merge-partial-docker-events.md",
+      "path": "highlights/2020-02-05-merge-partial-docker-events.md",
       "permalink": "/highlights/2020-02-05-merge-partial-docker-events/",
       "tags": [
         "type: enhancement",
@@ -2875,7 +2875,7 @@ module.exports = {
       "description": "A better way to manage complex Vector configurations",
       "hide_on_release_notes": false,
       "id": "2020-02-07-multi-config-files",
-      "path": "website/highlights/2020-02-07-multi-config-files.md",
+      "path": "highlights/2020-02-07-multi-config-files.md",
       "permalink": "/highlights/2020-02-07-multi-config-files/",
       "tags": [
         "type: new feature",
@@ -2889,7 +2889,7 @@ module.exports = {
       "description": "Best effort parsing support for Syslog",
       "hide_on_release_notes": true,
       "id": "2020-02-11-improved-syslog-parsing",
-      "path": "website/highlights/2020-02-11-improved-syslog-parsing.md",
+      "path": "highlights/2020-02-11-improved-syslog-parsing.md",
       "permalink": "/highlights/2020-02-11-improved-syslog-parsing/",
       "tags": [
         "type: new feature",
@@ -2904,7 +2904,7 @@ module.exports = {
       "description": "Set defaults for Vector's common log key names",
       "hide_on_release_notes": false,
       "id": "2020-02-14-global-log-schema",
-      "path": "website/highlights/2020-02-14-global-log-schema.md",
+      "path": "highlights/2020-02-14-global-log-schema.md",
       "permalink": "/highlights/2020-02-14-global-log-schema/",
       "tags": [
         "type: new feature",
@@ -2918,7 +2918,7 @@ module.exports = {
       "description": "Use Vector's templating syntax to add new fields",
       "hide_on_release_notes": true,
       "id": "2020-02-17-add-fields-transform-templating",
-      "path": "website/highlights/2020-02-17-add-fields-transform-templating.md",
+      "path": "highlights/2020-02-17-add-fields-transform-templating.md",
       "permalink": "/highlights/2020-02-17-add-fields-transform-templating/",
       "tags": [
         "type: enhancement",
@@ -2933,7 +2933,7 @@ module.exports = {
       "description": "7 new sinks have been added to Vector",
       "hide_on_release_notes": false,
       "id": "2020-02-20-new-sinks",
-      "path": "website/highlights/2020-02-20-new-sinks.md",
+      "path": "highlights/2020-02-20-new-sinks.md",
       "permalink": "/highlights/2020-02-20-new-sinks/",
       "tags": [
         "type: new feature",
@@ -2947,7 +2947,7 @@ module.exports = {
       "description": "Merge multiple lines together based on rules",
       "hide_on_release_notes": false,
       "id": "2020-02-21-file-source-multiline-support",
-      "path": "website/highlights/2020-02-21-file-source-multiline-support.md",
+      "path": "highlights/2020-02-21-file-source-multiline-support.md",
       "permalink": "/highlights/2020-02-21-file-source-multiline-support/",
       "tags": [
         "type: enhancement",
@@ -2962,7 +2962,7 @@ module.exports = {
       "description": "We're bringing our log data model closer to JSON",
       "hide_on_release_notes": true,
       "id": "2020-02-24-log-data-model-changes",
-      "path": "website/highlights/2020-02-24-log-data-model-changes.md",
+      "path": "highlights/2020-02-24-log-data-model-changes.md",
       "permalink": "/highlights/2020-02-24-log-data-model-changes/",
       "tags": [
         "type: breaking change",
@@ -2977,7 +2977,7 @@ module.exports = {
       "description": "An easier way to rename fields",
       "hide_on_release_notes": false,
       "id": "2020-02-24-rename-fields-transform",
-      "path": "website/highlights/2020-02-24-rename-fields-transform.md",
+      "path": "highlights/2020-02-24-rename-fields-transform.md",
       "permalink": "/highlights/2020-02-24-rename-fields-transform/",
       "tags": [
         "type: new feature",
@@ -2992,7 +2992,7 @@ module.exports = {
       "description": "Split log streams with ease",
       "hide_on_release_notes": false,
       "id": "2020-02-24-swimlanes-transform",
-      "path": "website/highlights/2020-02-24-swimlanes-transform.md",
+      "path": "highlights/2020-02-24-swimlanes-transform.md",
       "permalink": "/highlights/2020-02-24-swimlanes-transform/",
       "tags": [
         "type: new feature",
@@ -3007,7 +3007,7 @@ module.exports = {
       "description": "Bringing Vector to NixOS",
       "hide_on_release_notes": true,
       "id": "2020-02-27-nixos-support",
-      "path": "website/highlights/2020-02-27-nixos-support.md",
+      "path": "highlights/2020-02-27-nixos-support.md",
       "permalink": "/highlights/2020-02-27-nixos-support/",
       "tags": [
         "type: new feature",
@@ -3022,7 +3022,7 @@ module.exports = {
       "description": "Build Vector with select components",
       "hide_on_release_notes": false,
       "id": "2020-02-28-custom-vector-builds",
-      "path": "website/highlights/2020-02-28-custom-vector-builds.md",
+      "path": "highlights/2020-02-28-custom-vector-builds.md",
       "permalink": "/highlights/2020-02-28-custom-vector-builds/",
       "tags": [
         "type: new feature",
@@ -3037,7 +3037,7 @@ module.exports = {
       "description": "Our commitment to privacy",
       "hide_on_release_notes": true,
       "id": "2020-03-03-privacy-policy",
-      "path": "website/highlights/2020-03-03-privacy-policy.md",
+      "path": "highlights/2020-03-03-privacy-policy.md",
       "permalink": "/highlights/2020-03-03-privacy-policy/",
       "tags": [
         "type: announcement"
@@ -3050,7 +3050,7 @@ module.exports = {
       "description": "Vector now lets you whitelist, blacklist, and format fields when events are encoded",
       "hide_on_release_notes": false,
       "id": "2020-03-04-encoding-only-fields-except-fields",
-      "path": "website/highlights/2020-03-04-encoding-only-fields-except-fields.md",
+      "path": "highlights/2020-03-04-encoding-only-fields-except-fields.md",
       "permalink": "/highlights/2020-03-04-encoding-only-fields-except-fields/",
       "tags": [
         "type: enhancement",
@@ -3064,7 +3064,7 @@ module.exports = {
       "description": "More control over which fields are included when encoding",
       "hide_on_release_notes": true,
       "id": "2020-03-04-encoding-whitelist-blacklist",
-      "path": "website/highlights/2020-03-04-encoding-whitelist-blacklist.md",
+      "path": "highlights/2020-03-04-encoding-whitelist-blacklist.md",
       "permalink": "/highlights/2020-03-04-encoding-whitelist-blacklist/",
       "tags": [
         "type: new feature",
@@ -3078,7 +3078,7 @@ module.exports = {
       "description": "Improve throughput by compressing data before writing it to Kafka",
       "hide_on_release_notes": true,
       "id": "2020-03-09-kafka-sink-compression",
-      "path": "website/highlights/2020-03-09-kafka-sink-compression.md",
+      "path": "highlights/2020-03-09-kafka-sink-compression.md",
       "permalink": "/highlights/2020-03-09-kafka-sink-compression/",
       "tags": [
         "type: new feature",
@@ -3093,7 +3093,7 @@ module.exports = {
       "description": "Shed duplicate logs",
       "hide_on_release_notes": false,
       "id": "2020-03-10-dedupe-transform",
-      "path": "website/highlights/2020-03-10-dedupe-transform.md",
+      "path": "highlights/2020-03-10-dedupe-transform.md",
       "permalink": "/highlights/2020-03-10-dedupe-transform/",
       "tags": [
         "type: new feature",
@@ -3108,7 +3108,7 @@ module.exports = {
       "description": "Protect downstream metrics storages from runaway metrics tags",
       "hide_on_release_notes": false,
       "id": "2020-03-11-tag-cardinality-limit-transform",
-      "path": "website/highlights/2020-03-11-tag-cardinality-limit-transform.md",
+      "path": "highlights/2020-03-11-tag-cardinality-limit-transform.md",
       "permalink": "/highlights/2020-03-11-tag-cardinality-limit-transform/",
       "tags": [
         "type: new feature",
@@ -3123,7 +3123,7 @@ module.exports = {
       "description": "Securely forward data between Vector instances",
       "hide_on_release_notes": true,
       "id": "2020-03-11-vector-sink-tls",
-      "path": "website/highlights/2020-03-11-vector-sink-tls.md",
+      "path": "highlights/2020-03-11-vector-sink-tls.md",
       "permalink": "/highlights/2020-03-11-vector-sink-tls/",
       "tags": [
         "type: new feature",
@@ -3138,7 +3138,7 @@ module.exports = {
       "description": "Sink logs to the Papertrail logging service",
       "hide_on_release_notes": true,
       "id": "2020-03-12-papertrail-sink",
-      "path": "website/highlights/2020-03-12-papertrail-sink.md",
+      "path": "highlights/2020-03-12-papertrail-sink.md",
       "permalink": "/highlights/2020-03-12-papertrail-sink/",
       "tags": [
         "type: new feature",
@@ -3153,7 +3153,7 @@ module.exports = {
       "description": "This change ensures that the `host_key` option is consistent across all sources",
       "hide_on_release_notes": true,
       "id": "2020-03-12-rename-host_field-to-host_key",
-      "path": "website/highlights/2020-03-12-rename-host_field-to-host_key.md",
+      "path": "highlights/2020-03-12-rename-host_field-to-host_key.md",
       "permalink": "/highlights/2020-03-12-rename-host_field-to-host_key/",
       "tags": [
         "type: breaking change",
@@ -3168,7 +3168,7 @@ module.exports = {
       "description": "Sink logs to the Honeycomb logging service",
       "hide_on_release_notes": true,
       "id": "2020-03-14-honeycomb-sink",
-      "path": "website/highlights/2020-03-14-honeycomb-sink.md",
+      "path": "highlights/2020-03-14-honeycomb-sink.md",
       "permalink": "/highlights/2020-03-14-honeycomb-sink/",
       "tags": [
         "type: new feature",
@@ -3183,7 +3183,7 @@ module.exports = {
       "description": "Sink logs to the Apache Pulsar service",
       "hide_on_release_notes": true,
       "id": "2020-03-19-apache-pulsar-sink",
-      "path": "website/highlights/2020-03-19-apache-pulsar-sink.md",
+      "path": "highlights/2020-03-19-apache-pulsar-sink.md",
       "permalink": "/highlights/2020-03-19-apache-pulsar-sink/",
       "tags": [
         "type: new feature",
@@ -3198,7 +3198,7 @@ module.exports = {
       "description": "Sink logs to the Datadog logging service",
       "hide_on_release_notes": true,
       "id": "2020-03-23-datadog-logs-sink",
-      "path": "website/highlights/2020-03-23-datadog-logs-sink.md",
+      "path": "highlights/2020-03-23-datadog-logs-sink.md",
       "permalink": "/highlights/2020-03-23-datadog-logs-sink/",
       "tags": [
         "type: new feature",
@@ -3213,7 +3213,7 @@ module.exports = {
       "description": "This brings the sink naming inline with consistent naming pattern",
       "hide_on_release_notes": false,
       "id": "2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs",
-      "path": "website/highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs.md",
+      "path": "highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs.md",
       "permalink": "/highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs/",
       "tags": [
         "type: breaking change",
@@ -3228,7 +3228,7 @@ module.exports = {
       "description": "Filter and route your logs based on defined conditions",
       "hide_on_release_notes": false,
       "id": "2020-03-31-filter-transform",
-      "path": "website/highlights/2020-03-31-filter-transform.md",
+      "path": "highlights/2020-03-31-filter-transform.md",
       "permalink": "/highlights/2020-03-31-filter-transform/",
       "tags": [
         "type: new feature",
@@ -3243,7 +3243,7 @@ module.exports = {
       "description": "High quality guides and education for Vector",
       "hide_on_release_notes": false,
       "id": "2020-03-31-guides-section",
-      "path": "website/highlights/2020-03-31-guides-section.md",
+      "path": "highlights/2020-03-31-guides-section.md",
       "permalink": "/highlights/2020-03-31-guides-section/",
       "tags": [
         "type: new feature",
@@ -3257,7 +3257,7 @@ module.exports = {
       "description": "More options when filtering and routing events",
       "hide_on_release_notes": true,
       "id": "2020-04-01-more-condition-predicates",
-      "path": "website/highlights/2020-04-01-more-condition-predicates.md",
+      "path": "highlights/2020-04-01-more-condition-predicates.md",
       "permalink": "/highlights/2020-04-01-more-condition-predicates/",
       "tags": [
         "type: enhancement",
@@ -3274,7 +3274,7 @@ module.exports = {
       "description": "Compression is not supported by all Elasticsearch service providers",
       "hide_on_release_notes": false,
       "id": "2020-04-05-default-compression-to-none",
-      "path": "website/highlights/2020-04-05-default-compression-to-none.md",
+      "path": "highlights/2020-04-05-default-compression-to-none.md",
       "permalink": "/highlights/2020-04-05-default-compression-to-none/",
       "tags": [
         "type: breaking change",
@@ -3289,7 +3289,7 @@ module.exports = {
       "description": "The next iteration of our Lua transform.",
       "hide_on_release_notes": false,
       "id": "2020-04-07-lua-transform-version-2",
-      "path": "website/highlights/2020-04-07-lua-transform-version-2.md",
+      "path": "highlights/2020-04-07-lua-transform-version-2.md",
       "permalink": "/highlights/2020-04-07-lua-transform-version-2/",
       "tags": [
         "type: enhancement",
@@ -3304,7 +3304,7 @@ module.exports = {
       "description": "We've improved the way we serialize metrics data",
       "hide_on_release_notes": true,
       "id": "2020-04-07-use-external-tagging-for-metrics-serialization",
-      "path": "website/highlights/2020-04-07-use-external-tagging-for-metrics-serialization.md",
+      "path": "highlights/2020-04-07-use-external-tagging-for-metrics-serialization.md",
       "permalink": "/highlights/2020-04-07-use-external-tagging-for-metrics-serialization/",
       "tags": [
         "type: breaking change"
@@ -3317,7 +3317,7 @@ module.exports = {
       "description": "It's not possible to forward metrics between Vector instances",
       "hide_on_release_notes": true,
       "id": "2020-04-07-vector-to-vector-metrics",
-      "path": "website/highlights/2020-04-07-vector-to-vector-metrics.md",
+      "path": "highlights/2020-04-07-vector-to-vector-metrics.md",
       "permalink": "/highlights/2020-04-07-vector-to-vector-metrics/",
       "tags": [
         "type: new feature",
@@ -3332,7 +3332,7 @@ module.exports = {
       "description": "ACL is not always required when creating objects in GCP Cloud Storage",
       "hide_on_release_notes": false,
       "id": "2020-04-09-make-acl-optional",
-      "path": "website/highlights/2020-04-09-make-acl-optional.md",
+      "path": "highlights/2020-04-09-make-acl-optional.md",
       "permalink": "/highlights/2020-04-09-make-acl-optional/",
       "tags": [
         "type: breaking change",
@@ -3347,7 +3347,7 @@ module.exports = {
       "description": "This allows you to place Lua scripts in the same dir as your Vector config",
       "hide_on_release_notes": true,
       "id": "2020-04-09-set-search_dirs-to-config-dirs-by-default",
-      "path": "website/highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default.md",
+      "path": "highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default.md",
       "permalink": "/highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default/",
       "tags": [
         "type: breaking change",
@@ -3362,7 +3362,7 @@ module.exports = {
       "description": "Papertrail, Honeycomb, Pulsar, and DataDog Logs",
       "hide_on_release_notes": false,
       "id": "2020-04-17-new-sinks",
-      "path": "website/highlights/2020-04-17-new-sinks.md",
+      "path": "highlights/2020-04-17-new-sinks.md",
       "permalink": "/highlights/2020-04-17-new-sinks/",
       "tags": [
         "type: new feature",
@@ -3376,7 +3376,7 @@ module.exports = {
       "description": "A faster and more reliable shutdown process",
       "hide_on_release_notes": false,
       "id": "2020-04-20-improved-shutdown",
-      "path": "website/highlights/2020-04-20-improved-shutdown.md",
+      "path": "highlights/2020-04-20-improved-shutdown.md",
       "permalink": "/highlights/2020-04-20-improved-shutdown/",
       "tags": [
         "type: enhancement",
@@ -3390,7 +3390,7 @@ module.exports = {
       "description": "One step closer to Vector replacing awk and sed!",
       "hide_on_release_notes": false,
       "id": "2020-05-04-shutdown-vector-if-all-sources-finish",
-      "path": "website/highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
+      "path": "highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
       "permalink": "/highlights/2020-05-04-shutdown-vector-if-all-sources-finish/",
       "tags": [
         "type: enhancement",
@@ -3404,7 +3404,7 @@ module.exports = {
       "description": "The journald source can now exclude units.",
       "hide_on_release_notes": false,
       "id": "2020-05-05-add-support-for-include-exclude-units",
-      "path": "website/highlights/2020-05-05-add-support-for-include-exclude-units.md",
+      "path": "highlights/2020-05-05-add-support-for-include-exclude-units.md",
       "permalink": "/highlights/2020-05-05-add-support-for-include-exclude-units/",
       "tags": [
         "type: new feature",
@@ -3418,7 +3418,7 @@ module.exports = {
       "description": "Efficiently run multiple regexes in the same transform!",
       "hide_on_release_notes": false,
       "id": "2020-05-13-add-regexset-support-to-regex",
-      "path": "website/highlights/2020-05-13-add-regexset-support-to-regex.md",
+      "path": "highlights/2020-05-13-add-regexset-support-to-regex.md",
       "permalink": "/highlights/2020-05-13-add-regexset-support-to-regex/",
       "tags": [
         "type: enhancement",
@@ -3433,7 +3433,7 @@ module.exports = {
       "description": "Vector can now bear authentication tokens for relevant components.",
       "hide_on_release_notes": false,
       "id": "2020-05-20-add-bearer-auth-strategy",
-      "path": "website/highlights/2020-05-20-add-bearer-auth-strategy.md",
+      "path": "highlights/2020-05-20-add-bearer-auth-strategy.md",
       "permalink": "/highlights/2020-05-20-add-bearer-auth-strategy/",
       "tags": [
         "type: enhancement",
@@ -3448,7 +3448,7 @@ module.exports = {
       "description": "Complicated PEM? No PEM-blem with Vector!",
       "hide_on_release_notes": false,
       "id": "2020-05-27-add-support-for-loading-multiple-cas",
-      "path": "website/highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
+      "path": "highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
       "permalink": "/highlights/2020-05-27-add-support-for-loading-multiple-cas/",
       "tags": [
         "type: enhancement",
@@ -3462,7 +3462,7 @@ module.exports = {
       "description": "A little polish on a useful feature.",
       "hide_on_release_notes": false,
       "id": "2020-06-10-consolidate-and-beautify-validate",
-      "path": "website/highlights/2020-06-10-consolidate-and-beautify-validate.md",
+      "path": "highlights/2020-06-10-consolidate-and-beautify-validate.md",
       "permalink": "/highlights/2020-06-10-consolidate-and-beautify-validate/",
       "tags": [
         "type: enhancement",
@@ -3476,7 +3476,7 @@ module.exports = {
       "description": "Vector once again follows the guidance of the host on DNS lookups.",
       "hide_on_release_notes": false,
       "id": "2020-06-18-remove-custom-dns-resolution",
-      "path": "website/highlights/2020-06-18-remove-custom-dns-resolution.md",
+      "path": "highlights/2020-06-18-remove-custom-dns-resolution.md",
       "permalink": "/highlights/2020-06-18-remove-custom-dns-resolution/",
       "tags": [
         "type: breaking change"
@@ -3489,7 +3489,7 @@ module.exports = {
       "description": "Vector has a new way to authenticate with Kafka!",
       "hide_on_release_notes": false,
       "id": "2020-06-27-add-sasl-to-kafka",
-      "path": "website/highlights/2020-06-27-add-sasl-to-kafka.md",
+      "path": "highlights/2020-06-27-add-sasl-to-kafka.md",
       "permalink": "/highlights/2020-06-27-add-sasl-to-kafka/",
       "tags": [
         "type: new feature",
@@ -3504,7 +3504,7 @@ module.exports = {
       "description": "Stuff more data down a smaller hose in less time for cheaper.",
       "hide_on_release_notes": false,
       "id": "2020-07-06-add-compression-option-for-aws-sinks",
-      "path": "website/highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
+      "path": "highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
       "permalink": "/highlights/2020-07-06-add-compression-option-for-aws-sinks/",
       "tags": [
         "type: new feature",
@@ -3521,7 +3521,7 @@ module.exports = {
       "description": "If your Linux uses glibc, Vector will too.",
       "hide_on_release_notes": false,
       "id": "2020-07-09-add-musl-and-glibc-support-to-install-sh",
-      "path": "website/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
+      "path": "highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
       "permalink": "/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh/",
       "tags": [
         "type: performance",
@@ -3535,7 +3535,7 @@ module.exports = {
       "description": "Canonical Log Lines in Vector",
       "hide_on_release_notes": false,
       "id": "2020-07-10-add-reduce-transform",
-      "path": "website/highlights/2020-07-10-add-reduce-transform.md",
+      "path": "highlights/2020-07-10-add-reduce-transform.md",
       "permalink": "/highlights/2020-07-10-add-reduce-transform/",
       "tags": [
         "type: new feature",
@@ -3971,7 +3971,7 @@ module.exports = {
     "description": "Canonical Log Lines in Vector",
     "hide_on_release_notes": false,
     "id": "2020-07-10-add-reduce-transform",
-    "path": "website/highlights/2020-07-10-add-reduce-transform.md",
+    "path": "highlights/2020-07-10-add-reduce-transform.md",
     "permalink": "/highlights/2020-07-10-add-reduce-transform/",
     "tags": [
       "type: new feature",
@@ -3984,7 +3984,7 @@ module.exports = {
     "date": "2020-04-09",
     "description": "When we set out to build Vector, we knew that reliability and performance were\ntwo of our top priorities. We also knew that even the best of intentions would\nnot be enough to make certain those qualities were realized and reflected in our\nusers' production deployments. Since then, we've been continuously evolving and\nexpanding our approach to achieving that level of quality.",
     "id": "how-we-test-vector",
-    "path": "website/blog/2020-04-09-how-we-test-vector.md",
+    "path": "blog/2020-04-09-how-we-test-vector.md",
     "permalink": "/blog/how-we-test-vector/",
     "tags": [
       "type: post",
@@ -10442,7 +10442,7 @@ module.exports = {
         "description": "One step closer to Vector replacing awk and sed!",
         "hide_on_release_notes": false,
         "id": "2020-05-04-shutdown-vector-if-all-sources-finish",
-        "path": "website/highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
+        "path": "highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
         "permalink": "/highlights/2020-05-04-shutdown-vector-if-all-sources-finish/",
         "tags": [
           "type: enhancement",
@@ -10456,7 +10456,7 @@ module.exports = {
         "description": "The journald source can now exclude units.",
         "hide_on_release_notes": false,
         "id": "2020-05-05-add-support-for-include-exclude-units",
-        "path": "website/highlights/2020-05-05-add-support-for-include-exclude-units.md",
+        "path": "highlights/2020-05-05-add-support-for-include-exclude-units.md",
         "permalink": "/highlights/2020-05-05-add-support-for-include-exclude-units/",
         "tags": [
           "type: new feature",
@@ -10470,7 +10470,7 @@ module.exports = {
         "description": "Efficiently run multiple regexes in the same transform!",
         "hide_on_release_notes": false,
         "id": "2020-05-13-add-regexset-support-to-regex",
-        "path": "website/highlights/2020-05-13-add-regexset-support-to-regex.md",
+        "path": "highlights/2020-05-13-add-regexset-support-to-regex.md",
         "permalink": "/highlights/2020-05-13-add-regexset-support-to-regex/",
         "tags": [
           "type: enhancement",
@@ -10485,7 +10485,7 @@ module.exports = {
         "description": "Vector can now bear authentication tokens for relevant components.",
         "hide_on_release_notes": false,
         "id": "2020-05-20-add-bearer-auth-strategy",
-        "path": "website/highlights/2020-05-20-add-bearer-auth-strategy.md",
+        "path": "highlights/2020-05-20-add-bearer-auth-strategy.md",
         "permalink": "/highlights/2020-05-20-add-bearer-auth-strategy/",
         "tags": [
           "type: enhancement",
@@ -10500,7 +10500,7 @@ module.exports = {
         "description": "Complicated PEM? No PEM-blem with Vector!",
         "hide_on_release_notes": false,
         "id": "2020-05-27-add-support-for-loading-multiple-cas",
-        "path": "website/highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
+        "path": "highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
         "permalink": "/highlights/2020-05-27-add-support-for-loading-multiple-cas/",
         "tags": [
           "type: enhancement",
@@ -10514,7 +10514,7 @@ module.exports = {
         "description": "A little polish on a useful feature.",
         "hide_on_release_notes": false,
         "id": "2020-06-10-consolidate-and-beautify-validate",
-        "path": "website/highlights/2020-06-10-consolidate-and-beautify-validate.md",
+        "path": "highlights/2020-06-10-consolidate-and-beautify-validate.md",
         "permalink": "/highlights/2020-06-10-consolidate-and-beautify-validate/",
         "tags": [
           "type: enhancement",
@@ -10528,7 +10528,7 @@ module.exports = {
         "description": "Vector once again follows the guidance of the host on DNS lookups.",
         "hide_on_release_notes": false,
         "id": "2020-06-18-remove-custom-dns-resolution",
-        "path": "website/highlights/2020-06-18-remove-custom-dns-resolution.md",
+        "path": "highlights/2020-06-18-remove-custom-dns-resolution.md",
         "permalink": "/highlights/2020-06-18-remove-custom-dns-resolution/",
         "tags": [
           "type: breaking change"
@@ -10541,7 +10541,7 @@ module.exports = {
         "description": "Vector has a new way to authenticate with Kafka!",
         "hide_on_release_notes": false,
         "id": "2020-06-27-add-sasl-to-kafka",
-        "path": "website/highlights/2020-06-27-add-sasl-to-kafka.md",
+        "path": "highlights/2020-06-27-add-sasl-to-kafka.md",
         "permalink": "/highlights/2020-06-27-add-sasl-to-kafka/",
         "tags": [
           "type: new feature",
@@ -10556,7 +10556,7 @@ module.exports = {
         "description": "Stuff more data down a smaller hose in less time for cheaper.",
         "hide_on_release_notes": false,
         "id": "2020-07-06-add-compression-option-for-aws-sinks",
-        "path": "website/highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
+        "path": "highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
         "permalink": "/highlights/2020-07-06-add-compression-option-for-aws-sinks/",
         "tags": [
           "type: new feature",
@@ -10573,7 +10573,7 @@ module.exports = {
         "description": "If your Linux uses glibc, Vector will too.",
         "hide_on_release_notes": false,
         "id": "2020-07-09-add-musl-and-glibc-support-to-install-sh",
-        "path": "website/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
+        "path": "highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
         "permalink": "/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh/",
         "tags": [
           "type: performance",
@@ -10587,7 +10587,7 @@ module.exports = {
         "description": "Canonical Log Lines in Vector",
         "hide_on_release_notes": false,
         "id": "2020-07-10-add-reduce-transform",
-        "path": "website/highlights/2020-07-10-add-reduce-transform.md",
+        "path": "highlights/2020-07-10-add-reduce-transform.md",
         "permalink": "/highlights/2020-07-10-add-reduce-transform/",
         "tags": [
           "type: new feature",
@@ -10629,7 +10629,7 @@ module.exports = {
       "date": "2019-06-28",
       "description": "Today we're very excited to open source the Vector project! Vector is a tool for building flexible and robust pipelines for your logs and metrics data. We're still in the early stages, but our goal with Vector is to dramatically simplify your observability infrastructure while making it easy to get more value from your data.",
       "id": "introducing-vector",
-      "path": "website/blog/2019-06-28-introducing-vector.md",
+      "path": "blog/2019-06-28-introducing-vector.md",
       "permalink": "/blog/introducing-vector/",
       "tags": [
         "type: announcement"
@@ -10641,7 +10641,7 @@ module.exports = {
       "date": "2020-04-09",
       "description": "When we set out to build Vector, we knew that reliability and performance were\ntwo of our top priorities. We also knew that even the best of intentions would\nnot be enough to make certain those qualities were realized and reflected in our\nusers' production deployments. Since then, we've been continuously evolving and\nexpanding our approach to achieving that level of quality.",
       "id": "how-we-test-vector",
-      "path": "website/blog/2020-04-09-how-we-test-vector.md",
+      "path": "blog/2020-04-09-how-we-test-vector.md",
       "permalink": "/blog/how-we-test-vector/",
       "tags": [
         "type: post",
@@ -17101,7 +17101,7 @@ module.exports = {
           "description": "One step closer to Vector replacing awk and sed!",
           "hide_on_release_notes": false,
           "id": "2020-05-04-shutdown-vector-if-all-sources-finish",
-          "path": "website/highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
+          "path": "highlights/2020-05-04-shutdown-vector-if-all-sources-finish.md",
           "permalink": "/highlights/2020-05-04-shutdown-vector-if-all-sources-finish/",
           "tags": [
             "type: enhancement",
@@ -17115,7 +17115,7 @@ module.exports = {
           "description": "The journald source can now exclude units.",
           "hide_on_release_notes": false,
           "id": "2020-05-05-add-support-for-include-exclude-units",
-          "path": "website/highlights/2020-05-05-add-support-for-include-exclude-units.md",
+          "path": "highlights/2020-05-05-add-support-for-include-exclude-units.md",
           "permalink": "/highlights/2020-05-05-add-support-for-include-exclude-units/",
           "tags": [
             "type: new feature",
@@ -17129,7 +17129,7 @@ module.exports = {
           "description": "Efficiently run multiple regexes in the same transform!",
           "hide_on_release_notes": false,
           "id": "2020-05-13-add-regexset-support-to-regex",
-          "path": "website/highlights/2020-05-13-add-regexset-support-to-regex.md",
+          "path": "highlights/2020-05-13-add-regexset-support-to-regex.md",
           "permalink": "/highlights/2020-05-13-add-regexset-support-to-regex/",
           "tags": [
             "type: enhancement",
@@ -17144,7 +17144,7 @@ module.exports = {
           "description": "Vector can now bear authentication tokens for relevant components.",
           "hide_on_release_notes": false,
           "id": "2020-05-20-add-bearer-auth-strategy",
-          "path": "website/highlights/2020-05-20-add-bearer-auth-strategy.md",
+          "path": "highlights/2020-05-20-add-bearer-auth-strategy.md",
           "permalink": "/highlights/2020-05-20-add-bearer-auth-strategy/",
           "tags": [
             "type: enhancement",
@@ -17159,7 +17159,7 @@ module.exports = {
           "description": "Complicated PEM? No PEM-blem with Vector!",
           "hide_on_release_notes": false,
           "id": "2020-05-27-add-support-for-loading-multiple-cas",
-          "path": "website/highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
+          "path": "highlights/2020-05-27-add-support-for-loading-multiple-cas.md",
           "permalink": "/highlights/2020-05-27-add-support-for-loading-multiple-cas/",
           "tags": [
             "type: enhancement",
@@ -17173,7 +17173,7 @@ module.exports = {
           "description": "A little polish on a useful feature.",
           "hide_on_release_notes": false,
           "id": "2020-06-10-consolidate-and-beautify-validate",
-          "path": "website/highlights/2020-06-10-consolidate-and-beautify-validate.md",
+          "path": "highlights/2020-06-10-consolidate-and-beautify-validate.md",
           "permalink": "/highlights/2020-06-10-consolidate-and-beautify-validate/",
           "tags": [
             "type: enhancement",
@@ -17187,7 +17187,7 @@ module.exports = {
           "description": "Vector once again follows the guidance of the host on DNS lookups.",
           "hide_on_release_notes": false,
           "id": "2020-06-18-remove-custom-dns-resolution",
-          "path": "website/highlights/2020-06-18-remove-custom-dns-resolution.md",
+          "path": "highlights/2020-06-18-remove-custom-dns-resolution.md",
           "permalink": "/highlights/2020-06-18-remove-custom-dns-resolution/",
           "tags": [
             "type: breaking change"
@@ -17200,7 +17200,7 @@ module.exports = {
           "description": "Vector has a new way to authenticate with Kafka!",
           "hide_on_release_notes": false,
           "id": "2020-06-27-add-sasl-to-kafka",
-          "path": "website/highlights/2020-06-27-add-sasl-to-kafka.md",
+          "path": "highlights/2020-06-27-add-sasl-to-kafka.md",
           "permalink": "/highlights/2020-06-27-add-sasl-to-kafka/",
           "tags": [
             "type: new feature",
@@ -17215,7 +17215,7 @@ module.exports = {
           "description": "Stuff more data down a smaller hose in less time for cheaper.",
           "hide_on_release_notes": false,
           "id": "2020-07-06-add-compression-option-for-aws-sinks",
-          "path": "website/highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
+          "path": "highlights/2020-07-06-add-compression-option-for-aws-sinks.md",
           "permalink": "/highlights/2020-07-06-add-compression-option-for-aws-sinks/",
           "tags": [
             "type: new feature",
@@ -17232,7 +17232,7 @@ module.exports = {
           "description": "If your Linux uses glibc, Vector will too.",
           "hide_on_release_notes": false,
           "id": "2020-07-09-add-musl-and-glibc-support-to-install-sh",
-          "path": "website/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
+          "path": "highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh.md",
           "permalink": "/highlights/2020-07-09-add-musl-and-glibc-support-to-install-sh/",
           "tags": [
             "type: performance",
@@ -17246,7 +17246,7 @@ module.exports = {
           "description": "Canonical Log Lines in Vector",
           "hide_on_release_notes": false,
           "id": "2020-07-10-add-reduce-transform",
-          "path": "website/highlights/2020-07-10-add-reduce-transform.md",
+          "path": "highlights/2020-07-10-add-reduce-transform.md",
           "permalink": "/highlights/2020-07-10-add-reduce-transform/",
           "tags": [
             "type: new feature",
@@ -29295,7 +29295,7 @@ module.exports = {
           "description": "The `encoding` option is now required for these sinks",
           "hide_on_release_notes": false,
           "id": "2019-10-21-require-encoding-option-for-console-and-file-sinks",
-          "path": "website/highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks.md",
+          "path": "highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks.md",
           "permalink": "/highlights/2019-10-21-require-encoding-option-for-console-and-file-sinks/",
           "tags": [
             "type: breaking change",
@@ -29311,7 +29311,7 @@ module.exports = {
           "description": "These architectures are widely used in embeded devices & servers",
           "hide_on_release_notes": false,
           "id": "2019-11-19-arm-support-on-linux",
-          "path": "website/highlights/2019-11-19-arm-support-on-linux.md",
+          "path": "highlights/2019-11-19-arm-support-on-linux.md",
           "permalink": "/highlights/2019-11-19-arm-support-on-linux/",
           "tags": [
             "type: new feature",
@@ -29327,7 +29327,7 @@ module.exports = {
           "description": "Bringing the performance and reliability of Vector to Windows",
           "hide_on_release_notes": false,
           "id": "2019-11-21-windows-support",
-          "path": "website/highlights/2019-11-21-windows-support.md",
+          "path": "highlights/2019-11-21-windows-support.md",
           "permalink": "/highlights/2019-11-21-windows-support/",
           "tags": [
             "type: new feature",
@@ -29342,7 +29342,7 @@ module.exports = {
           "description": "Treating your Vector configuration files as code",
           "hide_on_release_notes": false,
           "id": "2019-11-25-unit-testing-vector-config-files",
-          "path": "website/highlights/2019-11-25-unit-testing-vector-config-files.md",
+          "path": "highlights/2019-11-25-unit-testing-vector-config-files.md",
           "permalink": "/highlights/2019-11-25-unit-testing-vector-config-files/",
           "tags": [
             "type: new feature",
@@ -29356,7 +29356,7 @@ module.exports = {
           "description": "This ensures that naming is consistent for the upcoming `datadog_logs` sink",
           "hide_on_release_notes": false,
           "id": "2019-12-04-rename-datadog-sink-to-datadog_metrics",
-          "path": "website/highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics.md",
+          "path": "highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics.md",
           "permalink": "/highlights/2019-12-04-rename-datadog-sink-to-datadog_metrics/",
           "tags": [
             "type: breaking change",
@@ -29371,7 +29371,7 @@ module.exports = {
           "description": "Point Vector to custom DNS servers",
           "hide_on_release_notes": false,
           "id": "2019-12-13-custom-dns",
-          "path": "website/highlights/2019-12-13-custom-dns.md",
+          "path": "highlights/2019-12-13-custom-dns.md",
           "permalink": "/highlights/2019-12-13-custom-dns/",
           "tags": [
             "type: new feature",
@@ -29385,7 +29385,7 @@ module.exports = {
           "description": "Early adopters have a new Kuberenetes source to chew on",
           "hide_on_release_notes": false,
           "id": "2019-12-14-kubernetes-source-alpha",
-          "path": "website/highlights/2019-12-14-kubernetes-source-alpha.md",
+          "path": "highlights/2019-12-14-kubernetes-source-alpha.md",
           "permalink": "/highlights/2019-12-14-kubernetes-source-alpha/",
           "tags": [
             "type: new feature",
@@ -29400,7 +29400,7 @@ module.exports = {
           "description": "Enrich your events with EC2 metadata",
           "hide_on_release_notes": false,
           "id": "2019-12-16-ec2-metadata",
-          "path": "website/highlights/2019-12-16-ec2-metadata.md",
+          "path": "highlights/2019-12-16-ec2-metadata.md",
           "permalink": "/highlights/2019-12-16-ec2-metadata/",
           "tags": [
             "type: new feature",
@@ -32694,7 +32694,7 @@ module.exports = {
           "description": "We've simplified our socket based sources into a single `socket` source",
           "hide_on_release_notes": false,
           "id": "2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source",
-          "path": "website/highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source.md",
+          "path": "highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source.md",
           "permalink": "/highlights/2020-01-03-merge-existing-tcp-and-udp-sources-into-a-single-socket-source/",
           "tags": [
             "type: breaking change",
@@ -32710,7 +32710,7 @@ module.exports = {
           "description": "This renames the existing `tcp` sink to `socket`",
           "hide_on_release_notes": false,
           "id": "2020-01-03-move-existing-tcp-sink-into-socket-sink",
-          "path": "website/highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink.md",
+          "path": "highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink.md",
           "permalink": "/highlights/2020-01-03-move-existing-tcp-sink-into-socket-sink/",
           "tags": [
             "type: breaking change",
@@ -32725,7 +32725,7 @@ module.exports = {
           "description": "Scrape prometheus metrics with Vector",
           "hide_on_release_notes": false,
           "id": "2020-01-07-prometheus-source",
-          "path": "website/highlights/2020-01-07-prometheus-source.md",
+          "path": "highlights/2020-01-07-prometheus-source.md",
           "permalink": "/highlights/2020-01-07-prometheus-source/",
           "tags": [
             "type: new feature",
@@ -32740,7 +32740,7 @@ module.exports = {
           "description": "We've simplified and organized our sink options",
           "hide_on_release_notes": false,
           "id": "2020-01-12-request-options-refactored",
-          "path": "website/highlights/2020-01-12-request-options-refactored.md",
+          "path": "highlights/2020-01-12-request-options-refactored.md",
           "permalink": "/highlights/2020-01-12-request-options-refactored/",
           "tags": [
             "type: breaking change",
@@ -32756,7 +32756,7 @@ module.exports = {
           "description": "This change achieve consistency with our `kafka` source and other Kafka clients",
           "hide_on_release_notes": false,
           "id": "2020-01-12-use-comma-delim-server-list-instead-of-an-array",
-          "path": "website/highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array.md",
+          "path": "highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array.md",
           "permalink": "/highlights/2020-01-12-use-comma-delim-server-list-instead-of-an-array/",
           "tags": [
             "type: breaking change",
@@ -32771,7 +32771,7 @@ module.exports = {
           "description": "This change ensures the `splunk_hec` source conforms to Vector's schema",
           "hide_on_release_notes": false,
           "id": "2020-01-14-rename-line-field-to-message",
-          "path": "website/highlights/2020-01-14-rename-line-field-to-message.md",
+          "path": "highlights/2020-01-14-rename-line-field-to-message.md",
           "permalink": "/highlights/2020-01-14-rename-line-field-to-message/",
           "tags": [
             "type: breaking change",
@@ -32786,7 +32786,7 @@ module.exports = {
           "description": "This gives you full control over which fields are indexed",
           "hide_on_release_notes": false,
           "id": "2020-01-20-splunk-hec-specify-indexed-fields",
-          "path": "website/highlights/2020-01-20-splunk-hec-specify-indexed-fields.md",
+          "path": "highlights/2020-01-20-splunk-hec-specify-indexed-fields.md",
           "permalink": "/highlights/2020-01-20-splunk-hec-specify-indexed-fields/",
           "tags": [
             "type: breaking change",
@@ -37631,7 +37631,7 @@ module.exports = {
           "description": "We've dropped redundant AWS options that may break backward compatibility",
           "hide_on_release_notes": true,
           "id": "2020-02-05-drop-aws-options",
-          "path": "website/highlights/2020-02-05-drop-aws-options.md",
+          "path": "highlights/2020-02-05-drop-aws-options.md",
           "permalink": "/highlights/2020-02-05-drop-aws-options/",
           "tags": [
             "type: breaking change",
@@ -37647,7 +37647,7 @@ module.exports = {
           "description": "Docker splits long messages by default, and now Vector merges them back for you",
           "hide_on_release_notes": false,
           "id": "2020-02-05-merge-partial-docker-events",
-          "path": "website/highlights/2020-02-05-merge-partial-docker-events.md",
+          "path": "highlights/2020-02-05-merge-partial-docker-events.md",
           "permalink": "/highlights/2020-02-05-merge-partial-docker-events/",
           "tags": [
             "type: enhancement",
@@ -37663,7 +37663,7 @@ module.exports = {
           "description": "A better way to manage complex Vector configurations",
           "hide_on_release_notes": false,
           "id": "2020-02-07-multi-config-files",
-          "path": "website/highlights/2020-02-07-multi-config-files.md",
+          "path": "highlights/2020-02-07-multi-config-files.md",
           "permalink": "/highlights/2020-02-07-multi-config-files/",
           "tags": [
             "type: new feature",
@@ -37677,7 +37677,7 @@ module.exports = {
           "description": "Best effort parsing support for Syslog",
           "hide_on_release_notes": true,
           "id": "2020-02-11-improved-syslog-parsing",
-          "path": "website/highlights/2020-02-11-improved-syslog-parsing.md",
+          "path": "highlights/2020-02-11-improved-syslog-parsing.md",
           "permalink": "/highlights/2020-02-11-improved-syslog-parsing/",
           "tags": [
             "type: new feature",
@@ -37692,7 +37692,7 @@ module.exports = {
           "description": "Set defaults for Vector's common log key names",
           "hide_on_release_notes": false,
           "id": "2020-02-14-global-log-schema",
-          "path": "website/highlights/2020-02-14-global-log-schema.md",
+          "path": "highlights/2020-02-14-global-log-schema.md",
           "permalink": "/highlights/2020-02-14-global-log-schema/",
           "tags": [
             "type: new feature",
@@ -37706,7 +37706,7 @@ module.exports = {
           "description": "Use Vector's templating syntax to add new fields",
           "hide_on_release_notes": true,
           "id": "2020-02-17-add-fields-transform-templating",
-          "path": "website/highlights/2020-02-17-add-fields-transform-templating.md",
+          "path": "highlights/2020-02-17-add-fields-transform-templating.md",
           "permalink": "/highlights/2020-02-17-add-fields-transform-templating/",
           "tags": [
             "type: enhancement",
@@ -37721,7 +37721,7 @@ module.exports = {
           "description": "7 new sinks have been added to Vector",
           "hide_on_release_notes": false,
           "id": "2020-02-20-new-sinks",
-          "path": "website/highlights/2020-02-20-new-sinks.md",
+          "path": "highlights/2020-02-20-new-sinks.md",
           "permalink": "/highlights/2020-02-20-new-sinks/",
           "tags": [
             "type: new feature",
@@ -37735,7 +37735,7 @@ module.exports = {
           "description": "Merge multiple lines together based on rules",
           "hide_on_release_notes": false,
           "id": "2020-02-21-file-source-multiline-support",
-          "path": "website/highlights/2020-02-21-file-source-multiline-support.md",
+          "path": "highlights/2020-02-21-file-source-multiline-support.md",
           "permalink": "/highlights/2020-02-21-file-source-multiline-support/",
           "tags": [
             "type: enhancement",
@@ -37750,7 +37750,7 @@ module.exports = {
           "description": "We're bringing our log data model closer to JSON",
           "hide_on_release_notes": true,
           "id": "2020-02-24-log-data-model-changes",
-          "path": "website/highlights/2020-02-24-log-data-model-changes.md",
+          "path": "highlights/2020-02-24-log-data-model-changes.md",
           "permalink": "/highlights/2020-02-24-log-data-model-changes/",
           "tags": [
             "type: breaking change",
@@ -37765,7 +37765,7 @@ module.exports = {
           "description": "An easier way to rename fields",
           "hide_on_release_notes": false,
           "id": "2020-02-24-rename-fields-transform",
-          "path": "website/highlights/2020-02-24-rename-fields-transform.md",
+          "path": "highlights/2020-02-24-rename-fields-transform.md",
           "permalink": "/highlights/2020-02-24-rename-fields-transform/",
           "tags": [
             "type: new feature",
@@ -37780,7 +37780,7 @@ module.exports = {
           "description": "Split log streams with ease",
           "hide_on_release_notes": false,
           "id": "2020-02-24-swimlanes-transform",
-          "path": "website/highlights/2020-02-24-swimlanes-transform.md",
+          "path": "highlights/2020-02-24-swimlanes-transform.md",
           "permalink": "/highlights/2020-02-24-swimlanes-transform/",
           "tags": [
             "type: new feature",
@@ -37839,7 +37839,7 @@ module.exports = {
           "description": "Our commitment to privacy",
           "hide_on_release_notes": true,
           "id": "2020-03-03-privacy-policy",
-          "path": "website/highlights/2020-03-03-privacy-policy.md",
+          "path": "highlights/2020-03-03-privacy-policy.md",
           "permalink": "/highlights/2020-03-03-privacy-policy/",
           "tags": [
             "type: announcement"
@@ -42375,7 +42375,7 @@ module.exports = {
           "description": "Bringing Vector to NixOS",
           "hide_on_release_notes": true,
           "id": "2020-02-27-nixos-support",
-          "path": "website/highlights/2020-02-27-nixos-support.md",
+          "path": "highlights/2020-02-27-nixos-support.md",
           "permalink": "/highlights/2020-02-27-nixos-support/",
           "tags": [
             "type: new feature",
@@ -42390,7 +42390,7 @@ module.exports = {
           "description": "Build Vector with select components",
           "hide_on_release_notes": false,
           "id": "2020-02-28-custom-vector-builds",
-          "path": "website/highlights/2020-02-28-custom-vector-builds.md",
+          "path": "highlights/2020-02-28-custom-vector-builds.md",
           "permalink": "/highlights/2020-02-28-custom-vector-builds/",
           "tags": [
             "type: new feature",
@@ -42405,7 +42405,7 @@ module.exports = {
           "description": "Vector now lets you whitelist, blacklist, and format fields when events are encoded",
           "hide_on_release_notes": false,
           "id": "2020-03-04-encoding-only-fields-except-fields",
-          "path": "website/highlights/2020-03-04-encoding-only-fields-except-fields.md",
+          "path": "highlights/2020-03-04-encoding-only-fields-except-fields.md",
           "permalink": "/highlights/2020-03-04-encoding-only-fields-except-fields/",
           "tags": [
             "type: enhancement",
@@ -42419,7 +42419,7 @@ module.exports = {
           "description": "More control over which fields are included when encoding",
           "hide_on_release_notes": true,
           "id": "2020-03-04-encoding-whitelist-blacklist",
-          "path": "website/highlights/2020-03-04-encoding-whitelist-blacklist.md",
+          "path": "highlights/2020-03-04-encoding-whitelist-blacklist.md",
           "permalink": "/highlights/2020-03-04-encoding-whitelist-blacklist/",
           "tags": [
             "type: new feature",
@@ -42433,7 +42433,7 @@ module.exports = {
           "description": "Improve throughput by compressing data before writing it to Kafka",
           "hide_on_release_notes": true,
           "id": "2020-03-09-kafka-sink-compression",
-          "path": "website/highlights/2020-03-09-kafka-sink-compression.md",
+          "path": "highlights/2020-03-09-kafka-sink-compression.md",
           "permalink": "/highlights/2020-03-09-kafka-sink-compression/",
           "tags": [
             "type: new feature",
@@ -42448,7 +42448,7 @@ module.exports = {
           "description": "Shed duplicate logs",
           "hide_on_release_notes": false,
           "id": "2020-03-10-dedupe-transform",
-          "path": "website/highlights/2020-03-10-dedupe-transform.md",
+          "path": "highlights/2020-03-10-dedupe-transform.md",
           "permalink": "/highlights/2020-03-10-dedupe-transform/",
           "tags": [
             "type: new feature",
@@ -42463,7 +42463,7 @@ module.exports = {
           "description": "Protect downstream metrics storages from runaway metrics tags",
           "hide_on_release_notes": false,
           "id": "2020-03-11-tag-cardinality-limit-transform",
-          "path": "website/highlights/2020-03-11-tag-cardinality-limit-transform.md",
+          "path": "highlights/2020-03-11-tag-cardinality-limit-transform.md",
           "permalink": "/highlights/2020-03-11-tag-cardinality-limit-transform/",
           "tags": [
             "type: new feature",
@@ -42478,7 +42478,7 @@ module.exports = {
           "description": "Securely forward data between Vector instances",
           "hide_on_release_notes": true,
           "id": "2020-03-11-vector-sink-tls",
-          "path": "website/highlights/2020-03-11-vector-sink-tls.md",
+          "path": "highlights/2020-03-11-vector-sink-tls.md",
           "permalink": "/highlights/2020-03-11-vector-sink-tls/",
           "tags": [
             "type: new feature",
@@ -42493,7 +42493,7 @@ module.exports = {
           "description": "Sink logs to the Papertrail logging service",
           "hide_on_release_notes": true,
           "id": "2020-03-12-papertrail-sink",
-          "path": "website/highlights/2020-03-12-papertrail-sink.md",
+          "path": "highlights/2020-03-12-papertrail-sink.md",
           "permalink": "/highlights/2020-03-12-papertrail-sink/",
           "tags": [
             "type: new feature",
@@ -42508,7 +42508,7 @@ module.exports = {
           "description": "This change ensures that the `host_key` option is consistent across all sources",
           "hide_on_release_notes": true,
           "id": "2020-03-12-rename-host_field-to-host_key",
-          "path": "website/highlights/2020-03-12-rename-host_field-to-host_key.md",
+          "path": "highlights/2020-03-12-rename-host_field-to-host_key.md",
           "permalink": "/highlights/2020-03-12-rename-host_field-to-host_key/",
           "tags": [
             "type: breaking change",
@@ -42523,7 +42523,7 @@ module.exports = {
           "description": "Sink logs to the Honeycomb logging service",
           "hide_on_release_notes": true,
           "id": "2020-03-14-honeycomb-sink",
-          "path": "website/highlights/2020-03-14-honeycomb-sink.md",
+          "path": "highlights/2020-03-14-honeycomb-sink.md",
           "permalink": "/highlights/2020-03-14-honeycomb-sink/",
           "tags": [
             "type: new feature",
@@ -42538,7 +42538,7 @@ module.exports = {
           "description": "Sink logs to the Apache Pulsar service",
           "hide_on_release_notes": true,
           "id": "2020-03-19-apache-pulsar-sink",
-          "path": "website/highlights/2020-03-19-apache-pulsar-sink.md",
+          "path": "highlights/2020-03-19-apache-pulsar-sink.md",
           "permalink": "/highlights/2020-03-19-apache-pulsar-sink/",
           "tags": [
             "type: new feature",
@@ -42553,7 +42553,7 @@ module.exports = {
           "description": "Sink logs to the Datadog logging service",
           "hide_on_release_notes": true,
           "id": "2020-03-23-datadog-logs-sink",
-          "path": "website/highlights/2020-03-23-datadog-logs-sink.md",
+          "path": "highlights/2020-03-23-datadog-logs-sink.md",
           "permalink": "/highlights/2020-03-23-datadog-logs-sink/",
           "tags": [
             "type: new feature",
@@ -42568,7 +42568,7 @@ module.exports = {
           "description": "This brings the sink naming inline with consistent naming pattern",
           "hide_on_release_notes": false,
           "id": "2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs",
-          "path": "website/highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs.md",
+          "path": "highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs.md",
           "permalink": "/highlights/2020-03-23-rename-gcp_stackdriver_logging-sink-to-gcp_stackdriver_logs/",
           "tags": [
             "type: breaking change",
@@ -42583,7 +42583,7 @@ module.exports = {
           "description": "Filter and route your logs based on defined conditions",
           "hide_on_release_notes": false,
           "id": "2020-03-31-filter-transform",
-          "path": "website/highlights/2020-03-31-filter-transform.md",
+          "path": "highlights/2020-03-31-filter-transform.md",
           "permalink": "/highlights/2020-03-31-filter-transform/",
           "tags": [
             "type: new feature",
@@ -42598,7 +42598,7 @@ module.exports = {
           "description": "High quality guides and education for Vector",
           "hide_on_release_notes": false,
           "id": "2020-03-31-guides-section",
-          "path": "website/highlights/2020-03-31-guides-section.md",
+          "path": "highlights/2020-03-31-guides-section.md",
           "permalink": "/highlights/2020-03-31-guides-section/",
           "tags": [
             "type: new feature",
@@ -42612,7 +42612,7 @@ module.exports = {
           "description": "More options when filtering and routing events",
           "hide_on_release_notes": true,
           "id": "2020-04-01-more-condition-predicates",
-          "path": "website/highlights/2020-04-01-more-condition-predicates.md",
+          "path": "highlights/2020-04-01-more-condition-predicates.md",
           "permalink": "/highlights/2020-04-01-more-condition-predicates/",
           "tags": [
             "type: enhancement",
@@ -42629,7 +42629,7 @@ module.exports = {
           "description": "Compression is not supported by all Elasticsearch service providers",
           "hide_on_release_notes": false,
           "id": "2020-04-05-default-compression-to-none",
-          "path": "website/highlights/2020-04-05-default-compression-to-none.md",
+          "path": "highlights/2020-04-05-default-compression-to-none.md",
           "permalink": "/highlights/2020-04-05-default-compression-to-none/",
           "tags": [
             "type: breaking change",
@@ -42644,7 +42644,7 @@ module.exports = {
           "description": "The next iteration of our Lua transform.",
           "hide_on_release_notes": false,
           "id": "2020-04-07-lua-transform-version-2",
-          "path": "website/highlights/2020-04-07-lua-transform-version-2.md",
+          "path": "highlights/2020-04-07-lua-transform-version-2.md",
           "permalink": "/highlights/2020-04-07-lua-transform-version-2/",
           "tags": [
             "type: enhancement",
@@ -42659,7 +42659,7 @@ module.exports = {
           "description": "We've improved the way we serialize metrics data",
           "hide_on_release_notes": true,
           "id": "2020-04-07-use-external-tagging-for-metrics-serialization",
-          "path": "website/highlights/2020-04-07-use-external-tagging-for-metrics-serialization.md",
+          "path": "highlights/2020-04-07-use-external-tagging-for-metrics-serialization.md",
           "permalink": "/highlights/2020-04-07-use-external-tagging-for-metrics-serialization/",
           "tags": [
             "type: breaking change"
@@ -42672,7 +42672,7 @@ module.exports = {
           "description": "It's not possible to forward metrics between Vector instances",
           "hide_on_release_notes": true,
           "id": "2020-04-07-vector-to-vector-metrics",
-          "path": "website/highlights/2020-04-07-vector-to-vector-metrics.md",
+          "path": "highlights/2020-04-07-vector-to-vector-metrics.md",
           "permalink": "/highlights/2020-04-07-vector-to-vector-metrics/",
           "tags": [
             "type: new feature",
@@ -42687,7 +42687,7 @@ module.exports = {
           "description": "ACL is not always required when creating objects in GCP Cloud Storage",
           "hide_on_release_notes": false,
           "id": "2020-04-09-make-acl-optional",
-          "path": "website/highlights/2020-04-09-make-acl-optional.md",
+          "path": "highlights/2020-04-09-make-acl-optional.md",
           "permalink": "/highlights/2020-04-09-make-acl-optional/",
           "tags": [
             "type: breaking change",
@@ -42702,7 +42702,7 @@ module.exports = {
           "description": "This allows you to place Lua scripts in the same dir as your Vector config",
           "hide_on_release_notes": true,
           "id": "2020-04-09-set-search_dirs-to-config-dirs-by-default",
-          "path": "website/highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default.md",
+          "path": "highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default.md",
           "permalink": "/highlights/2020-04-09-set-search_dirs-to-config-dirs-by-default/",
           "tags": [
             "type: breaking change",
@@ -42717,7 +42717,7 @@ module.exports = {
           "description": "Papertrail, Honeycomb, Pulsar, and DataDog Logs",
           "hide_on_release_notes": false,
           "id": "2020-04-17-new-sinks",
-          "path": "website/highlights/2020-04-17-new-sinks.md",
+          "path": "highlights/2020-04-17-new-sinks.md",
           "permalink": "/highlights/2020-04-17-new-sinks/",
           "tags": [
             "type: new feature",
@@ -42731,7 +42731,7 @@ module.exports = {
           "description": "A faster and more reliable shutdown process",
           "hide_on_release_notes": false,
           "id": "2020-04-20-improved-shutdown",
-          "path": "website/highlights/2020-04-20-improved-shutdown.md",
+          "path": "highlights/2020-04-20-improved-shutdown.md",
           "permalink": "/highlights/2020-04-20-improved-shutdown/",
           "tags": [
             "type: enhancement",
@@ -45056,9 +45056,9 @@ module.exports = {
   },
   "team": [
     {
-      "avatar": "https://github.com/a-rodin.png",
+      "avatar": "https://github.com/binarylogic.png",
       "bio": "Alexander is a Senior Engineer at <a href=\"https://timber.io\">Timber.io</a> and a member of the <a href=\"/community#team\">core Vector team</a>. He created <a href=\"https://alexanderrodin.com/qstardict\">QStarDict</a>, a dictionary application written in C++.",
-      "github": "https://github.com/a-rodin",
+      "github": "https://github.com/binarylogic",
       "id": "alex",
       "keybase": "https://keybase.io/arodin",
       "name": "Alexander"
@@ -45737,7 +45737,7 @@ module.exports = {
     "regex_parser": {
       "beta": false,
       "config_examples": {
-        "toml": "[transforms.out]\n  inputs = [\"in\"] # required\n  patterns = \"['^(?P<timestamp>[\\\\w\\\\-:\\\\+]+) (?P<level>\\\\w+) (?P<message>.*)$']\" # required\n  type = \"regex_parser\" # required"
+        "toml": "[transforms.out]\n  inputs = [\"in\"] # required\n  patterns = [\"^(?P<timestamp>[\\\\\\\\w\\\\\\\\-:\\\\\\\\+]+) (?P<level>\\\\\\\\w+) (?P<message>.*)$\"] # required\n  type = \"regex_parser\" # required"
       },
       "delivery_guarantee": null,
       "description": null,

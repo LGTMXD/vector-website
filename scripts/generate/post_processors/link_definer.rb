@@ -76,7 +76,7 @@ module PostProcessors
       end
 
       def in_website?
-        @file_path.start_with?(WEBSITE_ROOT)
+        @file_path.start_with?(ROOT_DIR)
       end
 
       def verify_no_direct_links!

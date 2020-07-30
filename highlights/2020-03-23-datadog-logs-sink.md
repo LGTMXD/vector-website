@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New Datadog Logs Sink"
 description: "Sink logs to the Datadog logging service"
 author_github: "https://github.com/binarylogic"

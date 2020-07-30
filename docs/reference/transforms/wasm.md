@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "WASM"
 description: "The Vector `wasm` transform accepts and outputs `log` events, allowing you to execute **experimental** WASM plugins."
 event_types: ["log"]
@@ -28,7 +27,7 @@ execute **experimental** WASM plugins.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/wasm.md.erb
+     docs/reference/transforms/wasm.md.erb
 -->
 
 ## Requirements

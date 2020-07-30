@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-15"
 component_title: "Coercer"
 description: "The Vector `coercer` transform accepts and outputs `log` events, allowing you to coerce log fields into fixed types."
 event_types: ["log"]
@@ -27,7 +26,7 @@ log fields into fixed types.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/coercer.md.erb
+     docs/reference/transforms/coercer.md.erb
 -->
 
 ## Configuration

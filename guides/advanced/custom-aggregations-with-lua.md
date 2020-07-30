@@ -1,9 +1,8 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Custom Aggregations with Lua
 description: Write a custom transform for aggregating log events into metrics using Lua scripting
-author_github: https://github.com/a-rodin
+author_github: https://github.com/binarylogic
 tags: ["type: guide", "domain: transforms", "transform: lua"]
 ---
 
@@ -19,7 +18,7 @@ counts them, and emits [`counter`][docs.about.data-model.metric#counter] metrics
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/custom-aggregations-with-lua.md.erb
+     guides/advanced/custom-aggregations-with-lua.md.erb
 -->
 
 ## Architectural Overview

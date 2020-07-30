@@ -1,11 +1,11 @@
 ---
 last_modified_on: "2020-07-17"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Leveraging glibc when possible"
 description: "If your Linux uses glibc, Vector will too."
 author_github: "https://github.com/hoverbear"
 hide_on_release_notes: false
-pr_numbers: [2969,2518]
+pr_numbers: [2969, 2518]
 release: "0.10.0"
 tags: ["type: performance", "domain: operations"]
 ---
@@ -25,18 +25,17 @@ For the vast majority of users **no special action needs to be taken.**
 
 ## Measures we've take to safeguard your deployments
 
-* This change **only affects** x86 platforms.
-* This change **affects** `.deb` and `.rpm` packages and Vectors **installed via** `https://sh.vector.dev`.
-* This change **does not affect** any [archives][urls.vector_download] you may already be using. We now publish archives
-  with the `gnu` prefix that contain glibc builds. *Musl builds are untouched as `musl` still.*
-* This change **does not affect** non-Linux platforms.
+- This change **only affects** x86 platforms.
+- This change **affects** `.deb` and `.rpm` packages and Vectors **installed via** `https://sh.vector.dev`.
+- This change **does not affect** any [archives][urls.vector_download] you may already be using. We now publish archives
+  with the `gnu` prefix that contain glibc builds. _Musl builds are untouched as `musl` still._
+- This change **does not affect** non-Linux platforms.
 
 If you've fought with glibc before, you've probably got a burning question:
 
 > Which version do we support? 🕵️‍♀️
 
 **Don't worry. We have your back. 🤜🤛** We're using a base of CentOS 7, which means new Vector glibc builds will support all the way back to **glibc 2.17** (released 2012-12-25). If that's still too new for your machines, please keep using the Musl builds. (Also, [Let us know!][urls.new_bug_report])
-
 
 ## Upgrade Guide
 

@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Unit Testing Your Configs
 description: Learn how to write and execute unit tests for your Vector configs
 author_github: https://github.com/Jeffail
@@ -80,7 +79,7 @@ live with us indefinitely. We will do _anything_ to prevent that.
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/unit-testing.md.erb
+     guides/advanced/unit-testing.md.erb
 -->
 
 ## Input

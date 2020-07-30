@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Datadog Logs"
 description: "The Vector `datadog_logs` sink streams `log` events to Datadog's logs via the TCP endpoint."
@@ -30,7 +29,7 @@ endpoint][urls.datadog_logs_endpoints].
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/datadog_logs.md.erb
+     docs/reference/sinks/datadog_logs.md.erb
 -->
 
 ## Configuration

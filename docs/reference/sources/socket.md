@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-28"
 delivery_guarantee: "best_effort"
 component_title: "Socket"
 description: "The Vector `socket` source ingests data through a socket, such as a TCP, UDP, or UDS socket and outputs `log` events."
@@ -30,7 +29,7 @@ ingests data through a [socket][urls.socket], such as a [TCP][urls.tcp],
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/socket.md.erb
+     docs/reference/sources/socket.md.erb
 -->
 
 ## Requirements

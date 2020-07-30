@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send logs from Docker to GCP Stackdriver"
 description: "A simple guide to send logs from Docker to GCP Stackdriver in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/platforms/docker/gcp_stackdriver_logs.md.erb
+     guides/integrate/platforms/docker/gcp_stackdriver_logs.md.erb
 -->
 
 ## Background

@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "Whitelist & Blacklist Fields When Encoding"
 description: "More control over which fields are included when encoding"
 author_github: "https://github.com/binarylogic"

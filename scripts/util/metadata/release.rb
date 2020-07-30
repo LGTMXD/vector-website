@@ -67,7 +67,7 @@ class Release
             With the following content:
 
             ---
-            $schema: "/.meta/.schemas/highlights.json"
+            $schema: "/.schemas/highlights.json"
             title: "#{commit.description}"
             description: "<fill-in>"
             author_github: "https://github.com/binarylogic"

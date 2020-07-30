@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-16"
 delivery_guarantee: "at_least_once"
 component_title: "Kafka"
 description: "The Vector `kafka` source ingests data through Kafka and outputs `log` events."
@@ -29,7 +28,7 @@ ingests data through [Kafka][urls.kafka] and outputs
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/kafka.md.erb
+     docs/reference/sources/kafka.md.erb
 -->
 
 ## Requirements

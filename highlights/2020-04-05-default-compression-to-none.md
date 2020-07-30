@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The `elasticsearch` sink `compression` option now defaults to `none`"
 description: "Compression is not supported by all Elasticsearch service providers"
 author_github: "https://github.com/binarylogic"

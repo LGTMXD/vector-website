@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Sampler"
 description: "The Vector `sampler` transform accepts and outputs `log` events, allowing you to sample events with a configurable rate."
 event_types: ["log"]
@@ -27,7 +26,7 @@ events with a configurable rate.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/sampler.md.erb
+     docs/reference/transforms/sampler.md.erb
 -->
 
 ## Configuration

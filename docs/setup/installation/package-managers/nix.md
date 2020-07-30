@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector via Nix
 sidebar_label: Nix
 description: Install Vector through the Nix package manager
@@ -30,7 +29,7 @@ delayed. Generally new Vector releases are made available within a few days.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/package-managers/nix.md.erb
+     docs/setup/installation/package-managers/nix.md.erb
 -->
 
 ## Install

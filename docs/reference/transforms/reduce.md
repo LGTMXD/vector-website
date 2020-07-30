@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Reduce"
 description: "The Vector `reduce` transform accepts and outputs `log` events, allowing you to combine multiple events into a single event based on a set of identifiers."
 event_types: ["log"]
@@ -27,7 +26,7 @@ combine multiple events into a single event based on a set of identifiers.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/reduce.md.erb
+     docs/reference/transforms/reduce.md.erb
 -->
 
 ## Configuration

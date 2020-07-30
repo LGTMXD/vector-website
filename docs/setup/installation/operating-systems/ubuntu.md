@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Ubuntu
 sidebar_label: Ubuntu
 description: Install Vector on the Ubuntu operating system
@@ -20,7 +19,7 @@ This document will cover installing Vector on Ubuntu.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/ubuntu.md.erb
+     docs/setup/installation/operating-systems/ubuntu.md.erb
 -->
 
 ## Install

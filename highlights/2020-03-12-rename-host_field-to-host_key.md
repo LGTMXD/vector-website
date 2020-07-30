@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "The `splunk_hec` source's `host_field` option has been renamed to `host_key`"
 description: "This change ensures that the `host_key` option is consistent across all sources"
 author_github: "https://github.com/binarylogic"

@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Managing Schemas in Vector
 description: Learn how to manage log schemas with Vector.
 author_github: https://github.com/hoverbear
@@ -28,7 +27,7 @@ some logs to the rest of your system. With a little configuration we can teach V
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/schemas.md.erb
+     guides/advanced/schemas.md.erb
 -->
 
 ## Overriding Global Field Names

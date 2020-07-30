@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Filter"
 description: "The Vector `filter` transform accepts and outputs `log` and `metric` events, allowing you to select events based on a set of logical conditions."
 event_types: ["log","metric"]
@@ -28,7 +27,7 @@ on a set of logical conditions.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/filter.md.erb
+     docs/reference/transforms/filter.md.erb
 -->
 
 ## Configuration

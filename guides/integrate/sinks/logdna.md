@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: "Send logs to LogDNA"
 description: "A simple guide to send logs to LogDNA in just a few minutes."
 author_github: https://github.com/binarylogic
@@ -32,7 +31,7 @@ your observability strategy.
 
      To make changes please edit the template located at:
 
-     website/guides/integrate/sinks/logdna.md.erb
+     guides/integrate/sinks/logdna.md.erb
 -->
 
 ## Background

@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Tuning
 description: How to tune Vector.
 ---

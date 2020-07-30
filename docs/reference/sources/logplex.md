@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Heroku Logplex"
 description: "The Vector `logplex` source ingests data through the Heroku Logplex HTTP Drain protocol and outputs `log` events."
@@ -30,7 +29,7 @@ events.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/logplex.md.erb
+     docs/reference/sources/logplex.md.erb
 -->
 
 ## Requirements

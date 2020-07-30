@@ -1,6 +1,5 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Hello World. Your First Vector Pipeline.
 description: Building your very first Vector pipeline, the "Hello World" of Vector tutorials.
 series_position: 1
@@ -21,7 +20,7 @@ Vector is a simple beast to tame, in this guide we'll send an
 
      To make changes please edit the template located at:
 
-     website/guides/getting-started/your-first-pipeline.md.erb
+     guides/getting-started/your-first-pipeline.md.erb
 -->
 
 ## Tutorial

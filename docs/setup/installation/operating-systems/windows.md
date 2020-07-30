@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Windows
 sidebar_label: Windows
 description: Install Vector on Windows
@@ -20,7 +19,7 @@ This document will cover installing Vector on Windows.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/windows.md.erb
+     docs/setup/installation/operating-systems/windows.md.erb
 -->
 
 ## Install

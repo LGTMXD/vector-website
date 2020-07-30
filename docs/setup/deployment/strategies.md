@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Deployment Strategies
 description: The various strategies used to deploy Vector across your infrastructure.
 sidebar_label: Strategies
@@ -21,7 +20,7 @@ detail and help you understand when to use each.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/deployment/strategies.md.erb
+     docs/setup/deployment/strategies.md.erb
 -->
 
 ## Daemon

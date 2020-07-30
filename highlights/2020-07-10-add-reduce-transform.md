@@ -1,13 +1,13 @@
 ---
 last_modified_on: "2020-07-17"
-$schema: "/.meta/.schemas/highlights.json"
+$schema: "/.schemas/highlights.json"
 title: "New Reduce transform"
 description: "Canonical Log Lines in Vector"
 author_github: "https://github.com/hoverbear"
 hide_on_release_notes: false
 pr_numbers: [2870]
 release: "0.10.0"
-tags: ["type: new feature","domain: transforms"]
+tags: ["type: new feature", "domain: transforms"]
 ---
 
 Fan of [Stripe's Canonical Log Lines][urls.stripe_blog_canonical_log_lines]? We are too. You can now find a new
@@ -19,7 +19,7 @@ The fantastic article by Brandur Leach describes them best:
 > They’re a simple idea: in addition to their normal log traces, requests (or some other unit of work that’s executing)
 > also emit one long log line at the end that pulls all its key telemetry into one place.
 
-Here's a *canonical* example:
+Here's a _canonical_ example:
 
 ```log
 [2019-03-18 22:48:32.999] canonical-log-line alloc_count=9123 auth_type=api_key database_queries=34 duration=0.009 http_method=POST http_path=/v1/charges http_status=200 key_id=mk_123 permissions_used=account_write rate_allowed=true rate_quota=100 rate_remaining=99 request_id=req_123 team=acquiring user_id=usr_123

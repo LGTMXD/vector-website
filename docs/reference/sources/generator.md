@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Generator"
 description: "The Vector `generator` source ingests data through an internal data generator and outputs `log` events."
@@ -28,7 +27,7 @@ ingests data through an internal data generator and outputs
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sources/generator.md.erb
+     docs/reference/sources/generator.md.erb
 -->
 
 ## Configuration

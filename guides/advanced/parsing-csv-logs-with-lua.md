@@ -1,9 +1,8 @@
 ---
-last_modified_on: "2020-07-13"
-$schema: "/.meta/.schemas/guides.json"
+$schema: "/.schemas/guides.json"
 title: Parsing CSV logs with Lua
 description: Parse structured application logs in CSV format using Lua transform
-author_github: https://github.com/a-rodin
+author_github: https://github.com/binarylogic
 tags: ["type: guide", "domain: transforms", "transform: lua"]
 ---
 
@@ -28,7 +27,7 @@ This guide walks through reading CSV logs using [`file`][docs.reference.sources.
 
      To make changes please edit the template located at:
 
-     website/guides/advanced/parsing-csv-logs-with-lua.md.erb
+     guides/advanced/parsing-csv-logs-with-lua.md.erb
 -->
 
 ## Getting Started

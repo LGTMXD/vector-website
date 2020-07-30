@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Install Vector On Amazon Linux
 sidebar_label: Amazon Linux
 description: Install Vector on Amazon Linux
@@ -21,7 +20,7 @@ will cover how to install Vector on this operating system.
 
      To make changes please edit the template located at:
 
-     website/docs/setup/installation/operating-systems/amazon-linux.md.erb
+     docs/setup/installation/operating-systems/amazon-linux.md.erb
 -->
 
 ## Install

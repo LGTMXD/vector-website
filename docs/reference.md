@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 title: Reference
 description: "Vector technical reference, covering available options and settings."
 sidebar_label: hidden

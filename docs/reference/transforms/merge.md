@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 component_title: "Merge"
 description: "The Vector [`merge`](#merge) transform accepts and outputs `log` events, allowing you to merge partial log events into a single event."
 event_types: ["log"]
@@ -27,7 +26,7 @@ partial log events into a single event.
 
      To make changes please edit the template located at:
 
-     website/docs/reference/transforms/merge.md.erb
+     docs/reference/transforms/merge.md.erb
 -->
 
 ## Configuration

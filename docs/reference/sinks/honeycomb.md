@@ -1,5 +1,4 @@
 ---
-last_modified_on: "2020-07-13"
 delivery_guarantee: "at_least_once"
 component_title: "Honeycomb"
 description: "The Vector `honeycomb` sink batches `log` events to Honeycomb via the batch events API."
@@ -29,7 +28,7 @@ The Vector `honeycomb` sink
 
      To make changes please edit the template located at:
 
-     website/docs/reference/sinks/honeycomb.md.erb
+     docs/reference/sinks/honeycomb.md.erb
 -->
 
 ## Configuration
