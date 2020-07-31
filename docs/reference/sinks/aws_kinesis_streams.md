@@ -43,14 +43,16 @@ endpoint](https://docs.aws.amazon.com/kinesis/latest/APIReference/API_PutRecords
 
 ```toml title="vector.toml"
 [sinks.my_sink_id]
-  # Encoding
-  encoding.codec = "json" # required
-
   # General
+  type = "aws_kinesis_streams" # required
+  inputs = ["my-source-or-transform-id"] # required
   compression = "none" # optional, default
   partition_key_field = "user_id" # optional, no default
   region = "us-east-1" # required, required when endpoint = ""
   stream_name = "my-stream" # required
+
+  # Encoding
+  encoding.codec = "json" # required
 ```
 
 </TabItem>
@@ -58,8 +60,17 @@ endpoint](https://docs.aws.amazon.com/kinesis/latest/APIReference/API_PutRecords
 
 ```toml title="vector.toml"
 [sinks.my_sink_id]
+  # General
+  type = "aws_kinesis_streams" # required
+  inputs = ["my-source-or-transform-id"] # required
+  assume_role = "arn:aws:iam::123456789098:role/my_role" # optional, no default
+  compression = "none" # optional, default
+  endpoint = "127.0.0.0:5000/path/to/service" # optional, no default, relevant when region = ""
+  partition_key_field = "user_id" # optional, no default
+  region = "us-east-1" # required, required when endpoint = ""
+  stream_name = "my-stream" # required
+
   # Batch
-  batch.max_bytes = 5000000 # optional, default, bytes
   batch.max_events = 500 # optional, default, events
   batch.timeout_secs = 1 # optional, default, seconds
 
@@ -74,14 +85,6 @@ endpoint](https://docs.aws.amazon.com/kinesis/latest/APIReference/API_PutRecords
   encoding.except_fields = ["timestamp", "message", "host"] # optional, no default
   encoding.only_fields = ["timestamp", "message", "host"] # optional, no default
   encoding.timestamp_format = "rfc3339" # optional, default
-
-  # General
-  assume_role = "arn:aws:iam::123456789098:role/my_role" # optional, no default
-  compression = "none" # optional, default
-  endpoint = "127.0.0.0:5000/path/to/service" # optional, no default, relevant when region = ""
-  partition_key_field = "user_id" # optional, no default
-  region = "us-east-1" # required, required when endpoint = ""
-  stream_name = "my-stream" # required
 
   # Request
   request.in_flight_limit = 5 # optional, default, requests
@@ -142,29 +145,6 @@ Configures the sink batching behavior.
 
 
 <Fields filters={false}>
-<Field
-  common={true}
-  defaultValue={5000000}
-  enumValues={null}
-  examples={[5000000]}
-  groups={[]}
-  name={"max_bytes"}
-  path={"batch"}
-  relevantWhen={null}
-  required={false}
-  templateable={false}
-  type={"uint"}
-  unit={"bytes"}
-  warnings={[]}
-  >
-
-#### max_bytes
-
-The maximum size of a batch, in bytes, before it is flushed.
-
-
-
-</Field>
 <Field
   common={true}
   defaultValue={500}

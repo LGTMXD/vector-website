@@ -51,6 +51,7 @@ require_relative "util"
 # Constants
 #
 
+# 
 HOST = "https://vector.dev".freeze
 DOCS_BASE_PATH = "/docs".freeze
 GUIDES_BASE_PATH = "/guides".freeze
@@ -66,15 +67,28 @@ DOCS_HOST = "#{HOST}#{DOCS_BASE_PATH}".freeze
 GUIDES_ROOT = File.join(ROOT_DIR, "guides").freeze
 HIGHLIGHTS_HOST = "#{HOST}#{HIGHLIGHTS_BASE_PATH}".freeze
 HIGHLIGHTS_ROOT = File.join(ROOT_DIR, "highlights").freeze
-META_ROOT = File.join(ROOT_DIR, "vector", ".meta").freeze
 PAGES_ROOT = File.join(ROOT_DIR, "src", "pages").freeze
 POSTS_ROOT = File.join(ROOT_DIR, "blog").freeze
 REFERENCE_ROOT = File.join(ROOT_DIR, "docs", "reference").freeze
 RELEASES_ROOT = File.join(ROOT_DIR, "releases").freeze
 RELEASES_HOST = "#{HOST}#{RELEASES_BASE_PATH}".freeze
-RELEASE_META_DIR = "#{META_ROOT}/releases".freeze
 PARTIALS_DIR = File.join(ROOT_DIR, "scripts", "generate", "templates", "_partials").freeze
 STATIC_ROOT = File.join(ROOT_DIR, "static").freeze
-VECTOR_ROOT = File.join(ROOT_DIR, "vector").freeze
+
+# Find the latest Vector version. This is a stop gap until we can support
+# multiple versions
+
+versions =
+  Dir.glob(File.join(ROOT_DIR, "vector", "**")).collect do |vector_version_dir|
+    version_string = File.basename(vector_version_dir.to_s.gsub("v", ""))
+    Version.new(version_string)
+  end.
+  sort
+
+latest_version = versions.last
+
+VECTOR_ROOT = File.join(ROOT_DIR, "vector", "v#{latest_version}").freeze
+META_ROOT = File.join(VECTOR_ROOT, ".meta").freeze
+RELEASE_META_DIR = "#{META_ROOT}/releases".freeze
 
 OPERATING_SYSTEMS = ["Linux", "MacOS", "Windows"].freeze

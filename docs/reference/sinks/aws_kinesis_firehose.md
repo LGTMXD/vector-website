@@ -71,7 +71,6 @@ endpoint](https://docs.aws.amazon.com/firehose/latest/APIReference/API_PutRecord
   stream_name = "my-stream" # required
 
   # Batch
-  batch.max_bytes = 4000000 # optional, default, bytes
   batch.max_events = 500 # optional, default, events
   batch.timeout_secs = 1 # optional, default, seconds
 
@@ -146,29 +145,6 @@ Configures the sink batching behavior.
 
 
 <Fields filters={false}>
-<Field
-  common={true}
-  defaultValue={4000000}
-  enumValues={null}
-  examples={[4000000]}
-  groups={[]}
-  name={"max_bytes"}
-  path={"batch"}
-  relevantWhen={null}
-  required={false}
-  templateable={false}
-  type={"uint"}
-  unit={"bytes"}
-  warnings={[]}
-  >
-
-#### max_bytes
-
-The maximum size of a batch, in bytes, before it is flushed.
-
-
-
-</Field>
 <Field
   common={true}
   defaultValue={500}
