@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Next Steps
 description: Where to go after the basics
 series_position: 5

@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Building & Managing Complex Configs
 description: Strategies for building and managing complex Vector configs
 author_github: https://github.com/Jeffail

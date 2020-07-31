@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../.schema.json"
 title: "Send logs to GCP Cloud Storage (GCS)"
 description: "A simple guide to send logs to GCP Cloud Storage (GCS) in just a few minutes."
 author_github: https://github.com/binarylogic

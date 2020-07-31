@@ -48,7 +48,23 @@ class Metadata
   class << self
     def load!(meta_dir, docs_root, guides_root, pages_root)
       metadata = load_metadata!(meta_dir)
-      validate_schema!(metadata)
+      errors = metadata.validate_schema(meta_dir)
+
+      if errors.any?
+        Printer.error!(
+          <<~EOF
+          The resulting hash from the `/.meta/**/*.toml` files failed
+          validation against the following schema:
+
+              ${metadata.fetch("$schema")}
+
+          The errors include:
+
+              * #{errors[0..50].join("\n*    ")}
+          EOF
+        )
+      end
+
       new(metadata, docs_root, guides_root, pages_root)
     end
 
@@ -82,25 +98,6 @@ class Metadata
 
         content = contents.join("\n")
         TomlRB.parse(content)
-      end
-
-      def validate_schema!(metadata)
-        errors = metadata.validate_schema
-
-        if errors.any?
-          Printer.error!(
-            <<~EOF
-            The resulting hash from the `/.meta/**/*.toml` files failed
-            validation against the following schema:
-
-                ${metadata.fetch("$schema")}
-
-            The errors include:
-
-                * #{errors[0..50].join("\n*    ")}
-            EOF
-          )
-        end
       end
   end
 

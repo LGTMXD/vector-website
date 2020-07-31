@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Monitoring Vector
 description: How to monitoring and observe Vector in production
 series_position: 4

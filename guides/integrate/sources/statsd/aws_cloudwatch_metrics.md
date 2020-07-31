@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send metrics from Statsd to AWS Cloudwatch"
 description: "A simple guide to send metrics from Statsd to AWS Cloudwatch in just a few minutes."
 author_github: https://github.com/binarylogic

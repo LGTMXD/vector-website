@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Deploying Vector
 description: How to deploy Vector to your target environment
 series_position: 3

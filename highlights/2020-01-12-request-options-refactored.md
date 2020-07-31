@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Sink options have been refactored"
 description: "We've simplified and organized our sink options"
 author_github: "https://github.com/binarylogic"

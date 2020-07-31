@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from Splunk HEC to New Relic"
 description: "A simple guide to send logs from Splunk HEC to New Relic in just a few minutes."
 author_github: https://github.com/binarylogic

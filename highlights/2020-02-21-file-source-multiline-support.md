@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-14"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Improved Multiline Support In The File Source"
 description: "Merge multiple lines together based on rules"
 author_github: "https://github.com/binarylogic"

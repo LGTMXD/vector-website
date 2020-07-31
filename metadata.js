@@ -43298,7 +43298,7 @@ module.exports = {
     "aws_kinesis_streams": {
       "beta": false,
       "config_examples": {
-        "toml": "[sinks.out]\n  # Encoding\n  encoding.codec = \"json\" # required\n\n  # General\n  inputs = [\"in\"] # required\n  region = \"us-east-1\" # required, required when endpoint = \"\"\n  stream_name = \"my-stream\" # required\n  type = \"aws_kinesis_streams\" # required"
+        "toml": "[sinks.out]\n  # Encoding\n  encoding.codec = \"json\" # required\n\n  # General\n  region = \"us-east-1\" # required, required when endpoint = \"\"\n  stream_name = \"my-stream\" # required"
       },
       "delivery_guarantee": "at_least_once",
       "description": "Amazon Kinesis Data Streams is a scalable and durable real-time data streaming service that can continuously capture gigabytes of data per second from hundreds of thousands of sources. Making it an excellent candidate for streaming logs and metrics data.",
@@ -45056,9 +45056,9 @@ module.exports = {
   },
   "team": [
     {
-      "avatar": "https://github.com/binarylogic.png",
+      "avatar": "https://github.com/a-rodin.png",
       "bio": "Alexander is a Senior Engineer at <a href=\"https://timber.io\">Timber.io</a> and a member of the <a href=\"/community#team\">core Vector team</a>. He created <a href=\"https://alexanderrodin.com/qstardict\">QStarDict</a>, a dictionary application written in C++.",
-      "github": "https://github.com/binarylogic",
+      "github": "https://github.com/a-rodin",
       "id": "alex",
       "keybase": "https://keybase.io/arodin",
       "name": "Alexander"

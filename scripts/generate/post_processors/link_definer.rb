@@ -67,7 +67,7 @@ module PostProcessors
         definition = links.fetch(link_id)
 
         if definition.start_with?("/")
-          if !in_website?
+          if in_vector?
             definition = HOST + definition.gsub(/\.md$/, "")
           end
         end
@@ -75,8 +75,8 @@ module PostProcessors
         definition
       end
 
-      def in_website?
-        @file_path.start_with?(ROOT_DIR)
+      def in_vector?
+        @file_path.start_with?(VECTOR_ROOT)
       end
 
       def verify_no_direct_links!

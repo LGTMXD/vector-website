@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Log Data Model Changes & Disk Buffers"
 description: "We're bringing our log data model closer to JSON"
 author_github: "https://github.com/binarylogic"

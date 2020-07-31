@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-16"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "À La Carte Custom Vector Builds"
 description: "Build Vector with select components"
 author_github: "https://github.com/binarylogic"

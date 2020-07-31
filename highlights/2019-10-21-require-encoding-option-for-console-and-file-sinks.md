@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Require `encoding` option for console and file sinks"
 description: "The `encoding` option is now required for these sinks"
 author_github: "https://github.com/binarylogic"

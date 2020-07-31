@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../.schema.json"
 title: "Collect metrics from Statsd and send them anywhere"
 description: "A simple guide to collect metrics from Statsd and send them anywhere in just a few minutes."
 author_github: https://github.com/binarylogic

@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from HTTP to another Vector instance"
 description: "A simple guide to send logs from HTTP to another Vector instance in just a few minutes."
 author_github: https://github.com/binarylogic

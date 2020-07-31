@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Structuring Your Log Data
 description: How to parse log data in Vector
 series_position: 2

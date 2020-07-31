@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Support for loading multiple CAs"
 description: "Complicated PEM? No PEM-blem with Vector!"
 author_github: "https://github.com/hoverbear"

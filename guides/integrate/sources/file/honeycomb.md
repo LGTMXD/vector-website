@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from a file to Honeycomb"
 description: "A simple guide to send logs from a file to Honeycomb in just a few minutes."
 author_github: https://github.com/binarylogic

@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from Docker to Kafka"
 description: "A simple guide to send logs from Docker to Kafka in just a few minutes."
 author_github: https://github.com/binarylogic

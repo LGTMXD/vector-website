@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from Kafka to a file"
 description: "A simple guide to send logs from Kafka to a file in just a few minutes."
 author_github: https://github.com/binarylogic

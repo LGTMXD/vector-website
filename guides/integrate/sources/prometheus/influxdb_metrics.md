@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send metrics from Prometheus to InfluxDB"
 description: "A simple guide to send metrics from Prometheus to InfluxDB in just a few minutes."
 author_github: https://github.com/binarylogic

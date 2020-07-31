@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-16"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "New Filter Transform"
 description: "Filter and route your logs based on defined conditions"
 author_github: "https://github.com/binarylogic"

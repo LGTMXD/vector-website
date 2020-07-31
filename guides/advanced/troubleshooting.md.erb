@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Troubleshooting
 description: A guide on debugging and troubleshooting Vector
 author_github: https://github.com/binarylogic

@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-03-31"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "ARMv7 & ARM64 Support on Linux"
 description: "These architectures are widely used in embeded devices & servers"
 author_github: "https://github.com/binarylogic"

@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-14"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "New compression options for some sinks"
 description: "Stuff more data down a smaller hose in less time for cheaper."
 author_github: "https://github.com/hoverbear"

@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from Splunk HEC to Loki"
 description: "A simple guide to send logs from Splunk HEC to Loki in just a few minutes."
 author_github: https://github.com/binarylogic

@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-15"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "AWS specific options have been dropped in the Elasticsearch sink"
 description: "We've dropped redundant AWS options that may break backward compatibility"
 author_github: "https://github.com/binarylogic"

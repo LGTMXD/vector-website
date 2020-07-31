@@ -14,7 +14,7 @@ class JSONSchema
 
     private
       def load_schema!(schema_path)
-        body = File.read("#{ROOT_DIR}#{schema_path}")
+        body = File.read(schema_path)
         JSON.parse(body)
       end
 

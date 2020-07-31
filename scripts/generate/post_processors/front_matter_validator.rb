@@ -9,10 +9,10 @@ module PostProcessors
         parser = FrontMatterParser::Parser.new(:md, loader: loader)
         parsed = parser.call(content)
         front_matter  = parsed.front_matter
-        errors = front_matter.validate_schema
+        errors = front_matter.validate_schema(File.dirname(target_path))
 
         if  errors.any?
-          schema = front_matter.fetch("$schema")
+          schema = File.dirname(target_path) + "/" + front_matter.fetch("$schema")
 
           Printer.error!(
             <<~EOF

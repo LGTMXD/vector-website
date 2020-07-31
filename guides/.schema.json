@@ -14,8 +14,7 @@
   "properties": {
     "$schema": {
       "type": "string",
-      "description": "The path to this schema.",
-      "enum": ["/.schemas/guides.json"]
+      "description": "The path to this schema."
     },
     "author_github": {
       "type": "string",

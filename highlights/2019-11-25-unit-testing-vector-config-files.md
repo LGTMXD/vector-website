@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-03-31"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Unit Testing Your Vector Config Files"
 description: "Treating your Vector configuration files as code"
 author_github: "https://github.com/binarylogic"

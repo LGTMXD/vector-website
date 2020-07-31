@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-03-31"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "A New Guides Section"
 description: "High quality guides and education for Vector"
 author_github: "https://github.com/binarylogic"

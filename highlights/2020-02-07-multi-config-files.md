@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Support For Multiple Config Files"
 description: "A better way to manage complex Vector configurations"
 author_github: "https://github.com/binarylogic"

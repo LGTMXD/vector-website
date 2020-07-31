@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send metrics from Prometheus to Statsd"
 description: "A simple guide to send metrics from Prometheus to Statsd in just a few minutes."
 author_github: https://github.com/binarylogic

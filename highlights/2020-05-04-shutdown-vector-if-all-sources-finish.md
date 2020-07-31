@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Vector gracefully exits when specific sources finish"
 description: "One step closer to Vector replacing awk and sed!"
 author_github: "https://github.com/hoverbear"

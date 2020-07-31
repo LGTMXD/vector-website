@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Custom Aggregations with Lua
 description: Write a custom transform for aggregating log events into metrics using Lua scripting
 author_github: https://github.com/binarylogic

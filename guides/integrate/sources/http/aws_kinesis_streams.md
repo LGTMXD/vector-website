@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from HTTP to AWS Kinesis Data Streams"
 description: "A simple guide to send logs from HTTP to AWS Kinesis Data Streams in just a few minutes."
 author_github: https://github.com/binarylogic

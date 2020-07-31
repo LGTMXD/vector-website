@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-17"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "New Reduce transform"
 description: "Canonical Log Lines in Vector"
 author_github: "https://github.com/hoverbear"

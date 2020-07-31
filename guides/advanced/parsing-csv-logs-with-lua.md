@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Parsing CSV logs with Lua
 description: Parse structured application logs in CSV format using Lua transform
 author_github: https://github.com/binarylogic

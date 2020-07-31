@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../.schema.json"
 title: "Send logs to AWS Kinesis Firehose"
 description: "A simple guide to send logs to AWS Kinesis Firehose in just a few minutes."
 author_github: https://github.com/binarylogic

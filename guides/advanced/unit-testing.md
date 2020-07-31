@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Unit Testing Your Configs
 description: Learn how to write and execute unit tests for your Vector configs
 author_github: https://github.com/Jeffail

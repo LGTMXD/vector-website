@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Hello World. Your First Vector Pipeline.
 description: Building your very first Vector pipeline, the "Hello World" of Vector tutorials.
 series_position: 1

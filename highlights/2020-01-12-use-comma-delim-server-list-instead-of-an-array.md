@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Use comma delim server list in `kafka` sink"
 description: "This change achieve consistency with our `kafka` source and other Kafka clients"
 author_github: "https://github.com/binarylogic"

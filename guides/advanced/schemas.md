@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../.schema.json"
 title: Managing Schemas in Vector
 description: Learn how to manage log schemas with Vector.
 author_github: https://github.com/hoverbear

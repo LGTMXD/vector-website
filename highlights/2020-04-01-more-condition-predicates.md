@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "More Condition Predicates"
 description: "More options when filtering and routing events"
 author_github: "https://github.com/binarylogic"

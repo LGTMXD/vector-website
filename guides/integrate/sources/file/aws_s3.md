@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from a file to AWS S3"
 description: "A simple guide to send logs from a file to AWS S3 in just a few minutes."
 author_github: https://github.com/binarylogic

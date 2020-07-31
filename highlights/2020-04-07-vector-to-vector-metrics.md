@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-14"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "The Vector Source Now Accepts Metrics"
 description: "It's not possible to forward metrics between Vector instances"
 author_github: "https://github.com/binarylogic"

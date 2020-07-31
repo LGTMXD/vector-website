@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../.schema.json"
 title: "Collect logs from Docker and send them anywhere"
 description: "A simple guide to collect logs from Docker and send them anywhere in just a few minutes."
 author_github: https://github.com/binarylogic

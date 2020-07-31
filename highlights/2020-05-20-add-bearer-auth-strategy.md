@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Now supporting the bearer auth strategy"
 description: "Vector can now bear authentication tokens for relevant components."
 author_github: "https://github.com/hoverbear"

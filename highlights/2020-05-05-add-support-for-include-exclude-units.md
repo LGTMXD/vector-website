@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-14"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Journald Unit Filtering Exclusions"
 description: "The journald source can now exclude units."
 author_github: "https://github.com/hoverbear"

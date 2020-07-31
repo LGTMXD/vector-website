@@ -1,5 +1,5 @@
 ---
-$schema: "/.schemas/guides.json"
+$schema: "../../../.schema.json"
 title: "Send logs from Syslog to Clickhouse"
 description: "A simple guide to send logs from Syslog to Clickhouse in just a few minutes."
 author_github: https://github.com/binarylogic

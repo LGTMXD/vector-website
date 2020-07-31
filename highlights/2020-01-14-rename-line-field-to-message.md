@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Rename `line` field to `message` in `splunk_hec` source"
 description: "This change ensures the `splunk_hec` source conforms to Vector's schema"
 author_github: "https://github.com/binarylogic"

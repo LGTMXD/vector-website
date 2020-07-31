@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-17"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Leveraging glibc when possible"
 description: "If your Linux uses glibc, Vector will too."
 author_github: "https://github.com/hoverbear"

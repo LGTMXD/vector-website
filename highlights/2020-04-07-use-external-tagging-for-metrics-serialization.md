@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Use external tagging for metrics serialization"
 description: "We've improved the way we serialize metrics data"
 author_github: "https://github.com/binarylogic"

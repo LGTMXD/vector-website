@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "RegexSet support to `regex` transform"
 description: "Efficiently run multiple regexes in the same transform!"
 author_github: "https://github.com/hoverbear"

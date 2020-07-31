@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-04-16"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "New Tag Cardinality Limit Transform"
 description: "Protect downstream metrics storages from runaway metrics tags"
 author_github: "https://github.com/binarylogic"

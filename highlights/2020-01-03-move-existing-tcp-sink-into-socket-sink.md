@@ -1,6 +1,6 @@
 ---
 last_modified_on: "2020-07-13"
-$schema: "/.schemas/highlights.json"
+$schema: ".schema.json"
 title: "Rename existing `tcp` sink to `socket` sink"
 description: "This renames the existing `tcp` sink to `socket`"
 author_github: "https://github.com/binarylogic"
