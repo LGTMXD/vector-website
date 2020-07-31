@@ -42,6 +42,13 @@ dry_run = ARGV.include?("--dry-run")
 # Constants
 #
 
+BLACKLISTED_TEMPLATE_PATHS = [
+  "#{META_ROOT}/",
+  "#{ROOT_DIR}/scripts/",
+  "#{VECTOR_ROOT}/distribution/nix/",
+  "#{VECTOR_ROOT}/scripts/",
+  "#{VECTOR_ROOT}/website/"
+]
 BLACKLISTED_SINKS = ["vector"]
 BLACKLISTED_SOURCES = ["vector"]
 
@@ -340,12 +347,18 @@ metadata.components.each do |component|
   end
 end
 
+#
+# Discover all templates
+#
+
 erb_paths =
   Dir.glob("#{ROOT_DIR}/**/[^_]*.erb", File::FNM_DOTMATCH).
   to_a.
-  filter { |path| !path.start_with?("#{META_ROOT}/") || path.start_with?("#{META_ROOT}/.schemas/") }.
-  filter { |path| !path.start_with?("#{ROOT_DIR}/scripts/") }.
-  filter { |path| !path.start_with?("#{ROOT_DIR}/distribution/nix/") }
+  filter do |path|
+    BLACKLISTED_TEMPLATE_PATHS.all? do |blacklisted_path|
+      !path.start_with?(blacklisted_path)
+    end
+  end
 
 #
 # Create missing .md files
