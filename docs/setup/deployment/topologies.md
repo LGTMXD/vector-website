@@ -113,4 +113,10 @@ service such as Kafka.
 * **More expensive.** In addition the management cost, the added stream cluster
   will require more resources which will increase operational cost.
 
+
+
+[assets.centralized-diagram]:../../assets/centralized-diagram.svg
+[assets.distributed]: ../../assets/distributed.svg
+[assets.stream-based]: ../../assets/stream-based.svg
+
 [docs.strategies]: /docs/setup/deployment/strategies/

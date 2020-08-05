@@ -234,4 +234,4 @@ variable example.
 [docs.monitoring#levels]: /docs/administration/monitoring/#levels
 [docs.process-management#reloading]: /docs/administration/process-management/#reloading
 [docs.process-management#starting]: /docs/administration/process-management/#starting
-[pages.aws_components]: /components/?providers%5B%5D=aws/
+[pages.aws_components]: /components/?providers%5B%5D=aws
