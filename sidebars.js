@@ -294,12 +294,12 @@ module.exports = {
         {
           type: 'link',
           label: 'Privacy',
-          href: 'github.com/timberio/vector/blob/master/PRIVACY.md'
+          href: 'https://github.com/timberio/vector/blob/master/PRIVACY.md'
         },
         {
           type: 'link',
           label: 'Security',
-          href: 'github.com/timberio/vector/security/policy'
+          href: 'https://github.com/timberio/vector/security/policy'
         },
       ],
     },
