@@ -159,7 +159,7 @@ reducing cost, etc.
 [docs.strategies]: /docs/setup/deployment/strategies/
 [docs.topologies]: /docs/setup/deployment/topologies/
 [docs.transforms]: /docs/reference/transforms/
-[guides.index]: /guides
+[guides.index]: /guides/
 [pages.index#performance]: /#performance
 [urls.rust]: https://www.rust-lang.org/
 [urls.toml]: https://github.com/toml-lang/toml
